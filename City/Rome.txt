@@ -1,0 +1,395 @@
+{
+    "status": 1,
+    "info": "OK",
+    "times": 0,
+    "data": {
+        "city_id": 28,
+        "enname": "Rome",
+        "cnname": "罗马",
+        "cover": "http://pic1.qyer.com/album/1bd/92/1829464/index/339x226",
+        "country": "意大利",
+        "lat": "41.890518",
+        "lon": "12.494249",
+        "city_pic": [
+            "http://pic1.qyer.com/album/1bd/92/1829464/index/w800",
+            "http://pic1.qyer.com/album/125/61/1864344/index/w800",
+            "http://pic1.qyer.com/album/196/bd/1864332/index/w800",
+            "http://pic.qyer.com/album/15b/70/1864349/index/w800",
+            "http://pic.qyer.com/album/15d/62/1922324/index/w800"
+        ],
+        "weather": {
+            "info": "晴朗（夜间）",
+            "low_temp": "24℃",
+            "high_temp": "36℃"
+        },
+        "planto": 0,
+        "guide_num": 4,
+        "icon_list": [
+            {
+                "icon": "景点玩乐",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562592918",
+                "icon_type": "play",
+                "link_url": ""
+            },
+            {
+                "icon": "美食",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562763075",
+                "icon_type": "food",
+                "link_url": ""
+            },
+            {
+                "icon": "城市指南",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604560769949",
+                "icon_type": "guide",
+                "link_url": ""
+            },
+            {
+                "icon": "特惠酒店",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563312380",
+                "icon_type": "house",
+                "link_url": "http://hotel.qyer.com/goto.php?url=http%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Faid%3D359095%26si%3Dai%252Cco%252Cci%252Cre%252Cdi%26label%3Dguid__datetime_15030308959415%26lang%3Dzh-cn%26ifl%3D%26ss%3D%25E7%25BD%2597%25E9%25A9%25AC"
+            },
+            {
+                "icon": "游记攻略",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670254580",
+                "icon_type": "travel_notes",
+                "link_url": "http://m.qyer.com/place/rome/travel-notes/?from_device=app"
+            },
+            {
+                "icon": "交通",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562347030",
+                "icon_type": "traffic",
+                "link_url": "http://m.qyer.com/place/city/rome/entry/transportationcity?from_device=app"
+            },
+            {
+                "icon": "机加酒",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561896961",
+                "icon_type": "flight",
+                "link_url": "qyer://action=search?type=1&categoryid=146,145&kw=28"
+            },
+            {
+                "icon": "自驾租车",
+                "icon_pic": "http://pic.qyer.com/public/2017/04/01/58df486f94d57.png",
+                "icon_type": "rentcar",
+                "link_url": "http://m.qyer.com/z/car/?city_id=1934&city_name=罗马&city_name_en=Rome&return_id=1934&return_name=罗马&return_name_en=Rome&city=1934&region=10067&utm_term=1934&utm_source=c03729731-m&utm_medium=partner&utm_campaign=dest&utm_term=金刚位"
+            },
+            {
+                "icon": "当地游",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561189499",
+                "icon_type": "local",
+                "link_url": "qyer://action=search?type=1&categoryid=159,160&kw=28"
+            },
+            {
+                "icon": "景点门票",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562986449",
+                "icon_type": "ticket",
+                "link_url": "qyer://action=search?type=1&categoryid=160&kw=28"
+            },
+            {
+                "icon": "WiFi电话卡",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561688441",
+                "icon_type": "wifi",
+                "link_url": "qyer://action=search?type=1&categoryid=163&kw=28"
+            },
+            {
+                "icon": "签证",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563171279",
+                "icon_type": "visa",
+                "link_url": "http://m.qyer.com/place/country/italy/entry/visa?suffix=28&from_device=app"
+            },
+            {
+                "icon": "结伴出行",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670808411",
+                "icon_type": "together",
+                "link_url": ""
+            },
+            {
+                "icon": "行程路线",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/09/12/14736621124752",
+                "icon_type": "plan",
+                "link_url": "http://m.qyer.com/place/rome/plan/?from_device=app"
+            },
+            {
+                "icon": "问答",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760671906324",
+                "icon_type": "ask",
+                "link_url": ""
+            }
+        ],
+        "city_map": "http://7xoe6n.com2.z0.glb.qiniucdn.com/map-8760-6088.png",
+        "want_num": 0,
+        "not_miss": {
+            "events": [
+                {
+                    "id": 1161081,
+                    "photo": "https://pic.qyer.com/album/103/4e/1829491/index/300_200",
+                    "name": "罗马景点好评Top10",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/rome/event/1161081/"
+                },
+                {
+                    "id": 1150575,
+                    "photo": "https://pic.qyer.com/album/user/1812/60/QEFUQBwHZ0k/index/300_200",
+                    "name": "锦囊精选餐厅之罗马篇",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/rome/event/1150575/"
+                }
+            ],
+            "pois": [
+                {
+                    "id": 41974,
+                    "photo": "https://pic.qyer.com/album/1a8/e7/1839859/index/300_200",
+                    "name": "罗马斗兽场",
+                    "grade": "9.2",
+                    "product_type": "交通票券",
+                    "price": "825",
+                    "url": "https://m.qyer.com/place/rome/poi/41974/"
+                },
+                {
+                    "id": 41982,
+                    "photo": "https://pic1.qyer.com/album/user/2319/93/Q0pUSxMEaEA/index/300_200",
+                    "name": "万神殿",
+                    "grade": "8.9",
+                    "product_type": "日游小团",
+                    "price": "435",
+                    "url": "https://m.qyer.com/place/rome/poi/41982/"
+                },
+                {
+                    "id": 62244,
+                    "photo": "https://pic1.qyer.com/album/1c4/1b/1925465/index/300_200",
+                    "name": "威尼斯广场",
+                    "grade": "8.8",
+                    "product_type": "交通票券",
+                    "price": "225",
+                    "url": "https://m.qyer.com/place/rome/poi/62244/"
+                },
+                {
+                    "id": 111257,
+                    "photo": "https://pic1.qyer.com/album/user/674/97/R05RSx0CYA/index/300_200",
+                    "name": "圣天使桥",
+                    "grade": "8.9",
+                    "product_type": "深度体验",
+                    "price": "399",
+                    "url": "https://m.qyer.com/place/rome/poi/111257/"
+                },
+                {
+                    "id": 42057,
+                    "photo": "https://pic.qyer.com/album/user/212/23/Q0hXQBkHYw/index/300_200",
+                    "name": "古罗马遗址",
+                    "grade": "8.7",
+                    "product_type": "交通票券",
+                    "price": "825",
+                    "url": "https://m.qyer.com/place/rome/poi/42057/"
+                },
+                {
+                    "id": 107722,
+                    "photo": "https://pic1.qyer.com/album/user/450/74/RUxVRR4FYw/index/300_200",
+                    "name": "四河喷泉",
+                    "grade": "8.8",
+                    "product_type": "",
+                    "price": "",
+                    "url": "https://m.qyer.com/place/rome/poi/107722/"
+                }
+            ]
+        },
+        "city_recommend_tag": [
+            {
+                "name": "景点",
+                "lists": [
+                    {
+                        "id": 10974,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1679/70/QE9SSx0HYkE/index/300_200",
+                        "tag_name": "追寻“罗马假日”",
+                        "url": "http://m.qyer.com/place/rome/event/1142720/"
+                    },
+                    {
+                        "id": 191,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/1a8/e7/1839859/index/300_200",
+                        "tag_name": "古罗马建筑",
+                        "url": ""
+                    },
+                    {
+                        "id": 283,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/168/19/1839953/index/300_200",
+                        "tag_name": "音乐之旅",
+                        "url": ""
+                    },
+                    {
+                        "id": 185,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/450/72/RUxVRRgOYw/index/300_200",
+                        "tag_name": "教堂建筑",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "name": "美食",
+                "lists": [
+                    {
+                        "id": 10975,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1679/53/QE9SSx8EZE4/index/300_200",
+                        "tag_name": "意式甜点提拉米苏",
+                        "url": "http://m.qyer.com/place/rome/event/1142716/"
+                    },
+                    {
+                        "id": 254,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/1164/36/QEhTRhkBZ0k/index/300_200",
+                        "tag_name": "美味冰淇淋",
+                        "url": ""
+                    },
+                    {
+                        "id": 255,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/413/34/RUhWQR4BYg/index/300_200",
+                        "tag_name": "地道意式披萨",
+                        "url": ""
+                    },
+                    {
+                        "id": 265,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/1797/50/QE5cRR8HaUw/index/300_200",
+                        "tag_name": "意式风味",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "name": "购物",
+                "lists": [
+                    {
+                        "id": 327,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1679/82/QE9SSxIFZUE/index/300_200",
+                        "tag_name": "集市淘宝",
+                        "url": "http://m.qyer.com/place/rome/event/1142728/"
+                    },
+                    {
+                        "id": 362,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/456/25/RUxTQB8EYQ/index/300_200",
+                        "tag_name": "扫货购物街",
+                        "url": ""
+                    },
+                    {
+                        "id": 269,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/810/49/SUhVRhMHYQ/index/300_200",
+                        "tag_name": "时尚服装店",
+                        "url": ""
+                    },
+                    {
+                        "id": 2532,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/2079/50/Q0lSSx8HY00/index/300_200",
+                        "tag_name": "怀旧古着店",
+                        "url": ""
+                    }
+                ]
+            }
+        ],
+        "recommend_discount": [
+            {
+                "id": 64807,
+                "name": "意大利天空之城白露里治奥古城+博赛纳湖一日游 (罗马往返)",
+                "price": "519",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2016/03/23/14587292745246"
+            },
+            {
+                "id": 52387,
+                "name": "【免排队】梵蒂冈博物馆+圣彼得大教堂+西斯廷教堂半日游",
+                "price": "540",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2015/09/06/14415282555380"
+            },
+            {
+                "id": 52382,
+                "name": "意大利罗马斗兽场+罗马广场+万神殿半日游(免排队,两人起订)",
+                "price": "435",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2015/09/04/14413515696640"
+            },
+            {
+                "id": 82742,
+                "name": "【罗马参团】法国+瑞士+意大利+梵蒂冈+摩纳哥7天6晚当地参团(中文导游)",
+                "price": "3999",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2016/08/15/14712539243922"
+            },
+            {
+                "id": 91412,
+                "name": "【中文专业讲解 + VIP通道】小国家大世界半日游：游览梵蒂冈博物馆+圣彼得大教堂+西斯廷礼拜堂",
+                "price": "450",
+                "photo": "http://pic.qyer.com/public/supplier/lastminute/2017/01/06/14836942651117"
+            },
+            {
+                "id": 95850,
+                "name": "【一价全包+全程中文陪同】意大利庞贝-那不勒斯千年古城一日游(罗马往返）",
+                "price": "900",
+                "photo": "http://pic.qyer.com/public/supplier/lastminute/2017/03/28/14906799245282"
+            }
+        ],
+        "travel_necessary": [
+            {
+                "category_id": "145,146",
+                "name": "机加酒",
+                "price": "3399",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681837759"
+            },
+            {
+                "category_id": "149",
+                "name": "签证",
+                "price": "285",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681967162"
+            },
+            {
+                "category_id": "163",
+                "name": "WiFi",
+                "price": "18.8",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681314114"
+            },
+            {
+                "category_id": "174,175",
+                "name": "当地交通",
+                "price": "48",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681614055"
+            }
+        ],
+        "mguide_lists": [
+            {
+                "mguide_id": 399,
+                "mguide_name": "意大利罗马美食推荐",
+                "mguide_photo": "http://pic.qyer.com/album/user/457/87/RUxSSh0BYg/index/"
+            },
+            {
+                "mguide_id": 2499,
+                "mguide_name": "跟着《天使与魔鬼》游罗马",
+                "mguide_photo": "http://pic1.qyer.com/album/user/974/39/SE5RQRMBYQ/index/"
+            },
+            {
+                "mguide_id": 391,
+                "mguide_name": "“罗马假日”的今与昔",
+                "mguide_photo": "http://pic1.qyer.com/album/1bc/84/1840387/index/"
+            },
+            {
+                "mguide_id": 402,
+                "mguide_name": "罗马美食发现全攻略之著名餐厅",
+                "mguide_photo": "http://pic1.qyer.com/album/user/678/91/R05dSxsHZg/index/"
+            },
+            {
+                "mguide_id": 1661,
+                "mguide_name": "罗马的大小市集",
+                "mguide_photo": "http://pic.qyer.com/album/user/810/35/SUhVQR8FZA/index/"
+            }
+        ]
+    },
+    "extra": {
+        "ra_switch": 1,
+        "ads": [
+            {}
+        ]
+    },
+    "ra_referer": ""
+}

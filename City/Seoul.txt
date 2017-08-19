@@ -1,0 +1,340 @@
+{
+    "status": 1,
+    "info": "OK",
+    "times": 0,
+    "data": {
+        "city_id": 67,
+        "enname": "Seoul",
+        "cnname": "首尔",
+        "cover": "http://pic.qyer.com/album/user/211/34/Q0hUQR4OZQ/index/339x226",
+        "country": "韩国",
+        "lat": "37.566536",
+        "lon": "126.977966",
+        "city_pic": [
+            "http://pic1.qyer.com/album/user/211/34/Q0hUQR4OZQ/index/w800",
+            "http://pic.qyer.com/album/144/f2/1841818/index/w800",
+            "http://pic1.qyer.com/album/1b0/16/1839557/index/w800",
+            "http://pic.qyer.com/album/1b4/dd/1841181/index/w800",
+            "http://pic1.qyer.com/album/1fc/5a/1841008/index/w800"
+        ],
+        "weather": {
+            "info": "分散雷阵雨",
+            "low_temp": "24℃",
+            "high_temp": "29℃"
+        },
+        "planto": 0,
+        "guide_num": 3,
+        "icon_list": [
+            {
+                "icon": "景点玩乐",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562592918",
+                "icon_type": "play",
+                "link_url": ""
+            },
+            {
+                "icon": "美食",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562763075",
+                "icon_type": "food",
+                "link_url": ""
+            },
+            {
+                "icon": "城市指南",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604560769949",
+                "icon_type": "guide",
+                "link_url": ""
+            },
+            {
+                "icon": "特惠酒店",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563312380",
+                "icon_type": "house",
+                "link_url": "http://hotel.qyer.com/goto.php?url=http%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Faid%3D359095%26si%3Dai%252Cco%252Cci%252Cre%252Cdi%26label%3Dguid__datetime_15030308102346%26lang%3Dzh-cn%26ifl%3D%26ss%3D%25E9%25A6%2596%25E5%25B0%2594"
+            },
+            {
+                "icon": "游记攻略",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670254580",
+                "icon_type": "travel_notes",
+                "link_url": "http://m.qyer.com/place/seoul/travel-notes/?from_device=app"
+            },
+            {
+                "icon": "交通",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562347030",
+                "icon_type": "traffic",
+                "link_url": "http://m.qyer.com/place/city/seoul/entry/transportationcity?from_device=app"
+            },
+            {
+                "icon": "机加酒",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561896961",
+                "icon_type": "flight",
+                "link_url": "qyer://action=search?type=1&categoryid=146,145&kw=67"
+            },
+            {
+                "icon": "自驾租车",
+                "icon_pic": "http://pic.qyer.com/public/2017/04/01/58df486f94d57.png",
+                "icon_type": "rentcar",
+                "link_url": "http://m.qyer.com/z/car/?city_id=2737&city_name=首尔&city_name_en=Seoul&return_id=2737&return_name=首尔&return_name_en=Seoul&city=2737&region=10122&utm_term=2737&utm_source=c03729731-m&utm_medium=partner&utm_campaign=dest&utm_term=金刚位"
+            },
+            {
+                "icon": "当地游",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561189499",
+                "icon_type": "local",
+                "link_url": "qyer://action=search?type=1&categoryid=159,160&kw=67"
+            },
+            {
+                "icon": "景点门票",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562986449",
+                "icon_type": "ticket",
+                "link_url": "qyer://action=search?type=1&categoryid=160&kw=67"
+            },
+            {
+                "icon": "WiFi电话卡",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561688441",
+                "icon_type": "wifi",
+                "link_url": "qyer://action=search?type=1&categoryid=163&kw=67"
+            },
+            {
+                "icon": "签证",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563171279",
+                "icon_type": "visa",
+                "link_url": "http://m.qyer.com/place/country/south-korea/entry/visa?suffix=67&from_device=app"
+            },
+            {
+                "icon": "结伴出行",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670808411",
+                "icon_type": "together",
+                "link_url": ""
+            },
+            {
+                "icon": "行程路线",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/09/12/14736621124752",
+                "icon_type": "plan",
+                "link_url": "http://m.qyer.com/place/seoul/plan/?from_device=app"
+            },
+            {
+                "icon": "问答",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760671906324",
+                "icon_type": "ask",
+                "link_url": ""
+            }
+        ],
+        "city_map": "http://7xoe6n.com2.z0.glb.qiniucdn.com/map-13970-6344.png",
+        "want_num": 0,
+        "not_miss": {
+            "events": [
+                {
+                    "id": 1148541,
+                    "photo": "https://pic.qyer.com/album/user/696/69/R0BTRBMDYw/index/300_200",
+                    "name": "首尔景点好评Top10",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/seoul/event/1148541/"
+                },
+                {
+                    "id": 1150568,
+                    "photo": "https://pic1.qyer.com/album/user/1812/58/QEFUQB8PZ0k/index/300_200",
+                    "name": "锦囊精选餐厅之首尔篇",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/seoul/event/1150568/"
+                }
+            ],
+            "pois": [
+                {
+                    "id": 107373,
+                    "photo": "https://pic1.qyer.com/album/user/482/29/RUFXQBMCaA/index/300_200",
+                    "name": "梨花女子大学",
+                    "grade": "8.9",
+                    "product_type": "",
+                    "price": "",
+                    "url": "https://m.qyer.com/place/seoul/poi/107373/"
+                },
+                {
+                    "id": 61884,
+                    "photo": "https://pic1.qyer.com/album/158/8a/2002352/index/300_200",
+                    "name": "北村韩屋村",
+                    "grade": "8.6",
+                    "product_type": "",
+                    "price": "",
+                    "url": "https://m.qyer.com/place/seoul/poi/61884/"
+                },
+                {
+                    "id": 82954,
+                    "photo": "https://pic.qyer.com/album/user/2074/81/Q0lSRhIGZk0/index/300_200",
+                    "name": "N首尔塔",
+                    "grade": "8.5",
+                    "product_type": "",
+                    "price": "",
+                    "url": "https://m.qyer.com/place/seoul/poi/82954/"
+                },
+                {
+                    "id": 55400,
+                    "photo": "https://pic1.qyer.com/album/user/213/25/Q0hWQB8OaA/index/300_200",
+                    "name": "乐天世界",
+                    "grade": "8.5",
+                    "product_type": "",
+                    "price": "",
+                    "url": "https://m.qyer.com/place/seoul/poi/55400/"
+                },
+                {
+                    "id": 40523,
+                    "photo": "https://pic1.qyer.com/album/user/558/10/RExdQxoHYQ/index/300_200",
+                    "name": "梨花女子大学博物馆",
+                    "grade": "8.8",
+                    "product_type": "",
+                    "price": "",
+                    "url": "https://m.qyer.com/place/seoul/poi/40523/"
+                },
+                {
+                    "id": 61886,
+                    "photo": "https://pic1.qyer.com/album/169/c9/1839650/index/300_200",
+                    "name": "弘益大学",
+                    "grade": "8.6",
+                    "product_type": "",
+                    "price": "",
+                    "url": "https://m.qyer.com/place/seoul/poi/61886/"
+                }
+            ]
+        },
+        "city_recommend_tag": [
+            {
+                "name": "景点",
+                "lists": [
+                    {
+                        "id": 1942,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1970/10/QEBSQhsHZ0A/index/300_200",
+                        "tag_name": "服饰摄影",
+                        "url": "http://m.qyer.com/place/seoul/event/1140799/"
+                    },
+                    {
+                        "id": 2015,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/2074/81/Q0lSRhIGZk0/index/300_200",
+                        "tag_name": "地标建筑",
+                        "url": ""
+                    },
+                    {
+                        "id": 211,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/211/14/Q0hUQx4CYw/index/300_200",
+                        "tag_name": "皇城宫殿",
+                        "url": ""
+                    },
+                    {
+                        "id": 10149,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1639/92/QE9WSxMFaUw/index/300_200",
+                        "tag_name": "剧场表演",
+                        "url": "http://m.qyer.com/place/seoul/event/1140811/"
+                    }
+                ]
+            },
+            {
+                "name": "美食",
+                "lists": [
+                    {
+                        "id": 10910,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1672/81/QE9SQBIGYEE/index/300_200",
+                        "tag_name": "营养滋补汤",
+                        "url": "http://m.qyer.com/place/seoul/event/1142354/"
+                    },
+                    {
+                        "id": 10100,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/421/57/RUtURx0OaA/index/300_200",
+                        "tag_name": "韩式烤肉",
+                        "url": ""
+                    },
+                    {
+                        "id": 10097,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/421/61/RUtURBsBaQ/index/300_200",
+                        "tag_name": "美味年糕",
+                        "url": ""
+                    },
+                    {
+                        "id": 254,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/978/99/SE5dSxMCZA/index/300_200",
+                        "tag_name": "咖啡甜点",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "name": "购物",
+                "lists": [
+                    {
+                        "id": 362,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/599/14/REBcQx4FZA/index/300_200",
+                        "tag_name": "血拼圣地",
+                        "url": ""
+                    },
+                    {
+                        "id": 1239,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/482/98/RUFXSxIFaA/index/300_200",
+                        "tag_name": "传统市场",
+                        "url": ""
+                    },
+                    {
+                        "id": 277,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/726/29/RktTQBMGYA/index/300_200",
+                        "tag_name": "电子产品",
+                        "url": ""
+                    },
+                    {
+                        "id": 2531,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/1768/46/QE5TSh4BY0g/index/300_200",
+                        "tag_name": "留个念想",
+                        "url": ""
+                    }
+                ]
+            }
+        ],
+        "recommend_discount": [],
+        "travel_necessary": [
+            {
+                "category_id": "163",
+                "name": "WiFi",
+                "price": "3",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681314114"
+            }
+        ],
+        "mguide_lists": [
+            {
+                "mguide_id": 5533,
+                "mguide_name": "深秋首尔游一个人的回忆却无法挽留",
+                "mguide_photo": "http://pic1.qyer.com/album/user/1415/87/QE1URxIAYkg/index/"
+            },
+            {
+                "mguide_id": 5514,
+                "mguide_name": "说走就走首尔游",
+                "mguide_photo": "http://pic.qyer.com/album/user/1406/14/QE1VRBsDYEk/index/"
+            },
+            {
+                "mguide_id": 5508,
+                "mguide_name": "首尔清溪川周边游",
+                "mguide_photo": "http://pic1.qyer.com/album/user/1404/23/QE1VRhgEaUo/index/"
+            },
+            {
+                "mguide_id": 236,
+                "mguide_name": "短小精悍韩国首尔美食小结",
+                "mguide_photo": "http://pic1.qyer.com/album/user/238/37/Q0pdQR0GZQ/index/"
+            },
+            {
+                "mguide_id": 1051,
+                "mguide_name": "最下饭的五种首尔美食",
+                "mguide_photo": "http://pic.qyer.com/album/user/740/58/Rk1VRxICYg/index/"
+            }
+        ]
+    },
+    "extra": {
+        "ra_switch": 1,
+        "ads": [
+            {}
+        ]
+    },
+    "ra_referer": ""
+}

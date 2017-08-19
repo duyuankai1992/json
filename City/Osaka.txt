@@ -1,0 +1,389 @@
+{
+    "status": 1,
+    "info": "OK",
+    "times": 0,
+    "data": {
+        "city_id": 8603,
+        "enname": "Osaka",
+        "cnname": "大阪",
+        "cover": "http://pic.qyer.com/album/user/387/88/QkFSShIGZA/index/339x226",
+        "country": "日本",
+        "lat": "34.693737",
+        "lon": "135.502167",
+        "city_pic": [
+            "http://pic1.qyer.com/album/user/387/88/QkFSShIGZA/index/w800",
+            "http://pic.qyer.com/album/user/365/81/Qk9QShsOaQ/index/w800",
+            "http://pic.qyer.com/album/user/365/81/Qk9QShsOZA/index/w800",
+            "http://pic.qyer.com/album/user/213/19/Q0hWQxMEaA/index/w800",
+            "http://pic1.qyer.com/album/user/387/88/QkFSShIHaQ/index/w800"
+        ],
+        "weather": {
+            "info": "雷阵雨",
+            "low_temp": "25℃",
+            "high_temp": "29℃"
+        },
+        "planto": 0,
+        "guide_num": 2,
+        "icon_list": [
+            {
+                "icon": "景点玩乐",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562592918",
+                "icon_type": "play",
+                "link_url": ""
+            },
+            {
+                "icon": "美食",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562763075",
+                "icon_type": "food",
+                "link_url": ""
+            },
+            {
+                "icon": "城市指南",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604560769949",
+                "icon_type": "guide",
+                "link_url": ""
+            },
+            {
+                "icon": "特惠酒店",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563312380",
+                "icon_type": "house",
+                "link_url": "http://hotel.qyer.com/goto.php?url=http%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Faid%3D359095%26si%3Dai%252Cco%252Cci%252Cre%252Cdi%26label%3Dguid__datetime_15030306861254%26lang%3Dzh-cn%26ifl%3D%26ss%3D%25E5%25A4%25A7%25E9%2598%25AA"
+            },
+            {
+                "icon": "游记攻略",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670254580",
+                "icon_type": "travel_notes",
+                "link_url": "http://m.qyer.com/place/osaka/travel-notes/?from_device=app"
+            },
+            {
+                "icon": "交通",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562347030",
+                "icon_type": "traffic",
+                "link_url": "http://m.qyer.com/place/city/osaka/entry/transportationcity?from_device=app"
+            },
+            {
+                "icon": "当地游",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561189499",
+                "icon_type": "local",
+                "link_url": "qyer://action=search?type=1&categoryid=159,160&kw=8603"
+            },
+            {
+                "icon": "机加酒",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561896961",
+                "icon_type": "flight",
+                "link_url": "qyer://action=search?type=1&categoryid=146,145&kw=8603"
+            },
+            {
+                "icon": "景点门票",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562986449",
+                "icon_type": "ticket",
+                "link_url": "qyer://action=search?type=1&categoryid=160&kw=8603"
+            },
+            {
+                "icon": "WiFi电话卡",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561688441",
+                "icon_type": "wifi",
+                "link_url": "qyer://action=search?type=1&categoryid=163&kw=8603"
+            },
+            {
+                "icon": "签证",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563171279",
+                "icon_type": "visa",
+                "link_url": "http://m.qyer.com/place/country/japan/entry/visa?suffix=8603&from_device=app"
+            },
+            {
+                "icon": "结伴出行",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670808411",
+                "icon_type": "together",
+                "link_url": ""
+            },
+            {
+                "icon": "行程路线",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/09/12/14736621124752",
+                "icon_type": "plan",
+                "link_url": "http://m.qyer.com/place/osaka/plan/?from_device=app"
+            },
+            {
+                "icon": "问答",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760671906324",
+                "icon_type": "ask",
+                "link_url": ""
+            }
+        ],
+        "city_map": "http://7xoe6n.com2.z0.glb.qiniucdn.com/map-14358-6506.png",
+        "want_num": 0,
+        "not_miss": {
+            "events": [
+                {
+                    "id": 1148538,
+                    "photo": "https://pic.qyer.com/album/user/652/37/R0xXQR0GaA/index/300_200",
+                    "name": "大阪景点好评Top10",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/osaka/event/1148538/"
+                },
+                {
+                    "id": 1148539,
+                    "photo": "https://pic1.qyer.com/album/user/674/49/R05RRhMGZg/index/300_200",
+                    "name": "大阪餐厅美味榜",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/osaka/event/1148539/"
+                }
+            ],
+            "pois": [
+                {
+                    "id": 73014,
+                    "photo": "https://pic1.qyer.com/album/user/803/76/SUlWRRwBZA/index/300_200",
+                    "name": "日本环球影城",
+                    "grade": "9.4",
+                    "product_type": "门票",
+                    "price": "349",
+                    "url": "https://m.qyer.com/place/osaka/poi/73014/"
+                },
+                {
+                    "id": 171418,
+                    "photo": "https://pic.qyer.com/album/user/991/2/SEBUQhgOZg/index/300_200",
+                    "name": "哈利波特乐园",
+                    "grade": "9.7",
+                    "product_type": "",
+                    "price": "",
+                    "url": "https://m.qyer.com/place/osaka/poi/171418/"
+                },
+                {
+                    "id": 73017,
+                    "photo": "https://pic1.qyer.com/album/user/630/77/R0pVRR0GZg/index/300_200",
+                    "name": "梅田空中庭院展望台",
+                    "grade": "9.0",
+                    "product_type": "",
+                    "price": "",
+                    "url": "https://m.qyer.com/place/osaka/poi/73017/"
+                },
+                {
+                    "id": 73016,
+                    "photo": "https://pic1.qyer.com/album/user/591/99/REBUSxMFaA/index/300_200",
+                    "name": "大阪城天守阁",
+                    "grade": "8.7",
+                    "product_type": "",
+                    "price": "",
+                    "url": "https://m.qyer.com/place/osaka/poi/73016/"
+                },
+                {
+                    "id": 109477,
+                    "photo": "https://pic1.qyer.com/album/user/630/76/R0pVRRwOZg/index/300_200",
+                    "name": "大阪城公园",
+                    "grade": "8.6",
+                    "product_type": "",
+                    "price": "",
+                    "url": "https://m.qyer.com/place/osaka/poi/109477/"
+                },
+                {
+                    "id": 436401,
+                    "photo": "https://pic.qyer.com/album/user/2241/66/Q0tRQxwBaEE/index/300_200",
+                    "name": "道頓堀つりぼり",
+                    "grade": "8.7",
+                    "product_type": "",
+                    "price": "",
+                    "url": "https://m.qyer.com/place/osaka/poi/436401/"
+                }
+            ]
+        },
+        "city_recommend_tag": [
+            {
+                "name": "景点",
+                "lists": [
+                    {
+                        "id": 175,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1677/6/QE9SRRoBZkE/index/300_200",
+                        "tag_name": "博物馆之旅",
+                        "url": "http://m.qyer.com/place/osaka/event/1142585/"
+                    },
+                    {
+                        "id": 283,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1594/95/QExcRhMCaUA/index/300_200",
+                        "tag_name": "表演场所",
+                        "url": "http://m.qyer.com/place/osaka/event/1139584/"
+                    },
+                    {
+                        "id": 2012,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/803/76/SUlWRRwBZA/index/300_200",
+                        "tag_name": "主题乐园",
+                        "url": ""
+                    },
+                    {
+                        "id": 188,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/591/99/REBUSxMFaA/index/300_200",
+                        "tag_name": "建筑寺庙",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "name": "美食",
+                "lists": [
+                    {
+                        "id": 10924,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1586/78/QExdRB0PYUw/index/300_200",
+                        "tag_name": "章鱼烧",
+                        "url": "http://m.qyer.com/place/osaka/event/1139531/"
+                    },
+                    {
+                        "id": 10239,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1586/70/QExdRB0HZko/index/300_200",
+                        "tag_name": "大阪烧",
+                        "url": "http://m.qyer.com/place/osaka/event/1139520/"
+                    },
+                    {
+                        "id": 10184,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/714/13/RkhRQxkFZQ/index/300_200",
+                        "tag_name": "寿喜烧",
+                        "url": ""
+                    },
+                    {
+                        "id": 11050,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1594/31/QExcRhkGYEE/index/300_200",
+                        "tag_name": "箱型寿司",
+                        "url": "http://m.qyer.com/place/osaka/event/1139560/"
+                    }
+                ]
+            },
+            {
+                "name": "购物",
+                "lists": [
+                    {
+                        "id": 275,
+                        "type": "event",
+                        "photo": "",
+                        "tag_name": "血拼大阪",
+                        "url": "http://m.qyer.com/place/osaka/event/1453218/"
+                    },
+                    {
+                        "id": 272,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1678/64/QE9SShwDYUE/index/300_200",
+                        "tag_name": "日本药妆",
+                        "url": "http://m.qyer.com/place/osaka/event/1142684/"
+                    },
+                    {
+                        "id": 10932,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/677/36/R05SQRwPYg/index/300_200",
+                        "tag_name": "地下商店街",
+                        "url": ""
+                    },
+                    {
+                        "id": 362,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/707/43/RklSRhkFaQ/index/300_200",
+                        "tag_name": "购物街",
+                        "url": ""
+                    }
+                ]
+            }
+        ],
+        "recommend_discount": [
+            {
+                "id": 95411,
+                "name": "【秒杀】日本大阪关西机场至市区接送机服务",
+                "price": "499",
+                "photo": "http://pic.qyer.com/public/supplier/lastminute/2017/04/19/14925706647681"
+            },
+            {
+                "id": 96912,
+                "name": "日本全境接机送机(免费等待/不约可退/中文专车)",
+                "price": "405",
+                "photo": "http://pic.qyer.com/public/supplier/lastminute/2017/04/18/14925049457649"
+            },
+            {
+                "id": 104467,
+                "name": "京都伏见稻荷大社+清水寺+东大寺·奈良公园中文一日游（大阪/京都发车可异地下车离团）",
+                "price": "335",
+                "photo": "http://pic.qyer.com/public/lastmin/supproduct/2017/07/18/15003635019298"
+            },
+            {
+                "id": 96957,
+                "name": "日本大阪关西机场至京都市区接送机服务（免费等待/不约可退/中文专车）",
+                "price": "949",
+                "photo": "http://pic.qyer.com/public/supplier/lastminute/2017/04/18/14925095235041"
+            },
+            {
+                "id": 103294,
+                "name": "【梦回白川乡】东京进大阪出+富士山+飞驒高山+岐阜温泉+京都世遗7天2-15人拼团游（4星酒店）",
+                "price": "8640",
+                "photo": "http://pic.qyer.com/public/supplier/lastminute/2017/07/04/14991376752473"
+            },
+            {
+                "id": 95144,
+                "name": "日本大阪包车一日游(中文专车自由行)",
+                "price": "1523",
+                "photo": "http://pic.qyer.com/public/supplier/lastminute/2017/04/19/14925704571686"
+            }
+        ],
+        "travel_necessary": [
+            {
+                "category_id": "145,146",
+                "name": "机加酒",
+                "price": "330",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681837759"
+            },
+            {
+                "category_id": "149",
+                "name": "签证",
+                "price": "50",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681967162"
+            },
+            {
+                "category_id": "163",
+                "name": "WiFi",
+                "price": "3",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681314114"
+            },
+            {
+                "category_id": "174,175",
+                "name": "当地交通",
+                "price": "88",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681614055"
+            }
+        ],
+        "mguide_lists": [
+            {
+                "mguide_id": 1720,
+                "mguide_name": "大阪奥特莱斯血拼记",
+                "mguide_photo": "http://pic1.qyer.com/album/user/817/13/SUhSQxkCYw/index/"
+            },
+            {
+                "mguide_id": 1701,
+                "mguide_name": "最地道的大阪美食",
+                "mguide_photo": "http://pic.qyer.com/album/user/813/44/SUhWRh4GaQ/index/"
+            },
+            {
+                "mguide_id": 276,
+                "mguide_name": "大阪特色美食推荐",
+                "mguide_photo": "http://pic.qyer.com/album/user/711/0/RkhUQhoAYQ/index/"
+            },
+            {
+                "mguide_id": 3532,
+                "mguide_name": "好吃到让人想尖叫的关西美食",
+                "mguide_photo": "http://pic.qyer.com/album/user/1062/51/QElTQB8GZUE/index/"
+            },
+            {
+                "mguide_id": 2211,
+                "mguide_name": "大阪心斋桥和道顿堀人气美食店铺",
+                "mguide_photo": "http://pic.qyer.com/album/user/941/5/SE1UQh8GYA/index/"
+            }
+        ]
+    },
+    "extra": {
+        "ra_switch": 1,
+        "ads": [
+            {}
+        ]
+    },
+    "ra_referer": ""
+}

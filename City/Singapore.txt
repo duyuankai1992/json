@@ -1,0 +1,338 @@
+{
+    "status": 1,
+    "info": "OK",
+    "times": 0,
+    "data": {
+        "city_id": 62,
+        "enname": "Singapore",
+        "cnname": "新加坡",
+        "cover": "http://pic1.qyer.com/album/1f7/a5/1829485/index/339x226",
+        "country": "新加坡",
+        "lat": "1.352083",
+        "lon": "103.819839",
+        "city_pic": [
+            "http://pic.qyer.com/album/1f7/a5/1829485/index/w800",
+            "http://pic.qyer.com/album/144/73/1004118/index/w800",
+            "http://pic1.qyer.com/album/190/f6/1902882/index/w800",
+            "http://pic.qyer.com/album/user/213/26/Q0hWQBwOZg/index/w800",
+            "http://pic.qyer.com/album/user/213/26/Q0hWQBwOZA/index/w800"
+        ],
+        "weather": {
+            "info": "",
+            "low_temp": "℃",
+            "high_temp": "℃"
+        },
+        "planto": 0,
+        "guide_num": 4,
+        "icon_list": [
+            {
+                "icon": "景点玩乐",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562592918",
+                "icon_type": "play",
+                "link_url": ""
+            },
+            {
+                "icon": "美食",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562763075",
+                "icon_type": "food",
+                "link_url": ""
+            },
+            {
+                "icon": "城市指南",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604560769949",
+                "icon_type": "guide",
+                "link_url": ""
+            },
+            {
+                "icon": "特惠酒店",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563312380",
+                "icon_type": "house",
+                "link_url": "http://hotel.qyer.com/goto.php?url=http%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Faid%3D359095%26si%3Dai%252Cco%252Cci%252Cre%252Cdi%26label%3Dguid__datetime_15030309541483%26lang%3Dzh-cn%26ifl%3D%26ss%3D%25E6%2596%25B0%25E5%258A%25A0%25E5%259D%25A1"
+            },
+            {
+                "icon": "游记攻略",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670254580",
+                "icon_type": "travel_notes",
+                "link_url": "http://m.qyer.com/place/singapore/travel-notes/?from_device=app"
+            },
+            {
+                "icon": "交通",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562347030",
+                "icon_type": "traffic",
+                "link_url": "http://m.qyer.com/place/city/singapore/entry/transportationcity?from_device=app"
+            },
+            {
+                "icon": "机加酒",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561896961",
+                "icon_type": "flight",
+                "link_url": "qyer://action=search?type=1&categoryid=146,145&kw=62"
+            },
+            {
+                "icon": "自驾租车",
+                "icon_pic": "http://pic.qyer.com/public/2017/04/01/58df486f94d57.png",
+                "icon_type": "rentcar",
+                "link_url": "http://m.qyer.com/z/car/?city_id=2627&city_name=新加坡&city_name_en=Singapore&return_id=2627&return_name=新加坡&return_name_en=Singapore&city=2627&region=10118&utm_term=2627&utm_source=c03729731-m&utm_medium=partner&utm_campaign=dest&utm_term=金刚位"
+            },
+            {
+                "icon": "当地游",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561189499",
+                "icon_type": "local",
+                "link_url": "qyer://action=search?type=1&categoryid=159,160&kw=62"
+            },
+            {
+                "icon": "景点门票",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562986449",
+                "icon_type": "ticket",
+                "link_url": "qyer://action=search?type=1&categoryid=160&kw=62"
+            },
+            {
+                "icon": "WiFi电话卡",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561688441",
+                "icon_type": "wifi",
+                "link_url": "qyer://action=search?type=1&categoryid=163&kw=62"
+            },
+            {
+                "icon": "签证",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563171279",
+                "icon_type": "visa",
+                "link_url": "http://m.qyer.com/place/country/singapore/entry/visa?suffix=62&from_device=app"
+            },
+            {
+                "icon": "结伴出行",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670808411",
+                "icon_type": "together",
+                "link_url": ""
+            },
+            {
+                "icon": "行程路线",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/09/12/14736621124752",
+                "icon_type": "plan",
+                "link_url": "http://m.qyer.com/place/singapore/plan/?from_device=app"
+            },
+            {
+                "icon": "问答",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760671906324",
+                "icon_type": "ask",
+                "link_url": ""
+            }
+        ],
+        "city_map": "http://7xoe6n.com2.z0.glb.qiniucdn.com/map-12916-8130.png",
+        "want_num": 0,
+        "not_miss": {
+            "events": [
+                {
+                    "id": 1149577,
+                    "photo": "https://pic1.qyer.com/album/user/1797/38/QE5cRRkPY0w/index/300_200",
+                    "name": "新加坡人气景点TOP10",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/singapore/event/1149577/"
+                },
+                {
+                    "id": 1149584,
+                    "photo": "https://pic.qyer.com/album/user/1797/41/QE5cRR4GZkk/index/300_200",
+                    "name": "新加坡人气美食TOP10",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/singapore/event/1149584/"
+                }
+            ],
+            "pois": [
+                {
+                    "id": 44549,
+                    "photo": "https://pic1.qyer.com/album/user/520/26/REtVQBwHYA/index/300_200",
+                    "name": "圣淘沙岛",
+                    "grade": "9.1",
+                    "product_type": "门票",
+                    "price": "68",
+                    "url": "https://m.qyer.com/place/singapore/poi/44549/"
+                },
+                {
+                    "id": 29268,
+                    "photo": "https://pic1.qyer.com/album/user/395/57/QkBQRx0AZA/index/300_200",
+                    "name": "滨海湾金沙酒店与金沙空中花园",
+                    "grade": "9.2",
+                    "product_type": "",
+                    "price": "",
+                    "url": "https://m.qyer.com/place/singapore/poi/29268/"
+                },
+                {
+                    "id": 44562,
+                    "photo": "https://pic.qyer.com/album/194/bb/1902884/index/300_200",
+                    "name": "新加坡环球影城",
+                    "grade": "9.4",
+                    "product_type": "门票",
+                    "price": "298",
+                    "url": "https://m.qyer.com/place/singapore/poi/44562/"
+                },
+                {
+                    "id": 103008,
+                    "photo": "https://pic1.qyer.com/album/user/400/13/RUlVQxkCZQ/index/300_200",
+                    "name": "滨海湾花园",
+                    "grade": "9.3",
+                    "product_type": "门票",
+                    "price": "110",
+                    "url": "https://m.qyer.com/place/singapore/poi/103008/"
+                },
+                {
+                    "id": 96086,
+                    "photo": "https://pic1.qyer.com/album/user/396/35/QkBTQR8DZA/index/300_200",
+                    "name": "圣淘沙名胜世界",
+                    "grade": "8.9",
+                    "product_type": "门票",
+                    "price": "68",
+                    "url": "https://m.qyer.com/place/singapore/poi/96086/"
+                },
+                {
+                    "id": 51715,
+                    "photo": "https://pic.qyer.com/album/1cb/7c/1840691/index/300_200",
+                    "name": "新加坡摩天观景轮",
+                    "grade": "8.8",
+                    "product_type": "当地游",
+                    "price": "329",
+                    "url": "https://m.qyer.com/place/singapore/poi/51715/"
+                }
+            ]
+        },
+        "city_recommend_tag": [
+            {
+                "name": "景点",
+                "lists": [
+                    {
+                        "id": 2018,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1387/81/QEpdRRIGY0s/index/300_200",
+                        "tag_name": "新加坡美食节",
+                        "url": "http://m.qyer.com/place/singapore/event/121226/"
+                    },
+                    {
+                        "id": 11309,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1693/9/QE9cQRoOYUk/index/300_200",
+                        "tag_name": "新加坡亲子游",
+                        "url": "http://m.qyer.com/place/singapore/event/1143442/"
+                    },
+                    {
+                        "id": 275,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1692/86/QE9cQBIBYUg/index/300_200",
+                        "tag_name": "购物中心",
+                        "url": "http://m.qyer.com/place/singapore/event/1143417/"
+                    },
+                    {
+                        "id": 249,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/1668/67/QE9TShwAZk4/index/300_200",
+                        "tag_name": "新加坡夜生活",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "name": "美食",
+                "lists": [
+                    {
+                        "id": 229,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1692/87/QE9cQBIAaUE/index/300_200",
+                        "tag_name": "当地特色美食",
+                        "url": "http://m.qyer.com/place/singapore/event/1143419/"
+                    },
+                    {
+                        "id": 260,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/401/3/RUlUQhkAZQ/index/300_200",
+                        "tag_name": "中餐料理",
+                        "url": ""
+                    },
+                    {
+                        "id": 376,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/400/90/RUlVSxoFYQ/index/300_200",
+                        "tag_name": "西式风味",
+                        "url": ""
+                    },
+                    {
+                        "id": 1285,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/1152/50/QEhQQB8HY0g/index/300_200",
+                        "tag_name": "印度餐厅",
+                        "url": ""
+                    }
+                ]
+            }
+        ],
+        "recommend_discount": [
+            {
+                "id": 68597,
+                "name": "新加坡圣淘沙环球影城+夜间动物园包车一日游(可坐10人,中文司机)",
+                "price": "878",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2016/03/03/14570016149858"
+            },
+            {
+                "id": 62356,
+                "name": "民丹岛丹戎槟榔镇+卡朗渔村+传统SPA一日游(含午餐,接送)",
+                "price": "456",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2015/12/29/14513716232883"
+            }
+        ],
+        "travel_necessary": [
+            {
+                "category_id": "145,146",
+                "name": "机加酒",
+                "price": "1099",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681837759"
+            },
+            {
+                "category_id": "149",
+                "name": "签证",
+                "price": "218",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681967162"
+            },
+            {
+                "category_id": "163",
+                "name": "WiFi",
+                "price": "3",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681314114"
+            },
+            {
+                "category_id": "174,175",
+                "name": "当地交通",
+                "price": "49",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681614055"
+            }
+        ],
+        "mguide_lists": [
+            {
+                "mguide_id": 1348,
+                "mguide_name": "最全！新加坡传统美食大集锦",
+                "mguide_photo": "http://pic.qyer.com/album/user/764/32/Rk9RQRgEaQ/index/"
+            },
+            {
+                "mguide_id": 1026,
+                "mguide_name": "在樟宜机场购买伴手礼",
+                "mguide_photo": "http://pic1.qyer.com/album/user/729/39/RktcQRMHZg/index/"
+            },
+            {
+                "mguide_id": 507,
+                "mguide_name": "细数新加坡好吃的当地美食",
+                "mguide_photo": "http://pic1.qyer.com/album/user/400/95/RUlVSx8FaA/index/"
+            },
+            {
+                "mguide_id": 1865,
+                "mguide_name": "十二道锋味之新加坡美食大全",
+                "mguide_photo": "http://pic1.qyer.com/album/user/859/9/SUxcQhMFYQ/index/"
+            },
+            {
+                "mguide_id": 504,
+                "mguide_name": "新加坡美食 （吃货必看）",
+                "mguide_photo": "http://pic1.qyer.com/album/user/304/31/QklRQRsFYQ/index/"
+            }
+        ]
+    },
+    "extra": {
+        "ra_switch": 1,
+        "ads": [
+            {}
+        ]
+    },
+    "ra_referer": ""
+}

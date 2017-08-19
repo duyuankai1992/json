@@ -1,0 +1,395 @@
+{
+    "status": 1,
+    "info": "OK",
+    "times": 0,
+    "data": {
+        "city_id": 11186,
+        "enname": "Taiwan",
+        "cnname": "台湾",
+        "cover": "http://pic.qyer.com/album/user/492/12/RUBXQxgFaQ/index/339x226",
+        "country": "中国",
+        "lat": "23.697809",
+        "lon": "120.960518",
+        "city_pic": [
+            "http://pic.qyer.com/album/user/492/12/RUBXQxgFaQ/index/w800",
+            "http://pic1.qyer.com/album/user/487/91/RUFSSxsHZQ/index/w800",
+            "http://pic.qyer.com/album/user/488/38/RUFdQRIGYw/index/w800",
+            "http://pic1.qyer.com/album/user/525/44/REtQRh4PYQ/index/w800",
+            "http://pic.qyer.com/album/user/518/40/REhdRhoOZQ/index/w800"
+        ],
+        "weather": {
+            "info": "",
+            "low_temp": "℃",
+            "high_temp": "℃"
+        },
+        "planto": 0,
+        "guide_num": 5,
+        "icon_list": [
+            {
+                "icon": "景点玩乐",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562592918",
+                "icon_type": "play",
+                "link_url": ""
+            },
+            {
+                "icon": "美食",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562763075",
+                "icon_type": "food",
+                "link_url": ""
+            },
+            {
+                "icon": "城市指南",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604560769949",
+                "icon_type": "guide",
+                "link_url": ""
+            },
+            {
+                "icon": "特惠酒店",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563312380",
+                "icon_type": "house",
+                "link_url": "http://hotel.qyer.com/goto.php?url=http%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Faid%3D359095%26si%3Dai%252Cco%252Cci%252Cre%252Cdi%26label%3Dguid__datetime_15030305903020%26lang%3Dzh-cn%26ifl%3D%26ss%3D%25E5%258F%25B0%25E6%25B9%25BE"
+            },
+            {
+                "icon": "游记攻略",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670254580",
+                "icon_type": "travel_notes",
+                "link_url": "http://m.qyer.com/place/taiwan/travel-notes/?from_device=app"
+            },
+            {
+                "icon": "交通",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562347030",
+                "icon_type": "traffic",
+                "link_url": "http://m.qyer.com/place/city/taiwan/entry/transportationcity?from_device=app"
+            },
+            {
+                "icon": "当地游",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561189499",
+                "icon_type": "local",
+                "link_url": "qyer://action=search?type=1&categoryid=159,160&kw=11186"
+            },
+            {
+                "icon": "全部城市",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760669441169",
+                "icon_type": "all_city",
+                "link_url": ""
+            },
+            {
+                "icon": "机加酒",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561896961",
+                "icon_type": "flight",
+                "link_url": "qyer://action=search?type=1&categoryid=146,145&kw=11186"
+            },
+            {
+                "icon": "景点门票",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562986449",
+                "icon_type": "ticket",
+                "link_url": "qyer://action=search?type=1&categoryid=160&kw=11186"
+            },
+            {
+                "icon": "WiFi电话卡",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561688441",
+                "icon_type": "wifi",
+                "link_url": "qyer://action=search?type=1&categoryid=163&kw=11186"
+            },
+            {
+                "icon": "签证",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563171279",
+                "icon_type": "visa",
+                "link_url": "http://m.qyer.com/place/country/china/entry/visa?suffix=11186&from_device=app"
+            },
+            {
+                "icon": "结伴出行",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670808411",
+                "icon_type": "together",
+                "link_url": ""
+            },
+            {
+                "icon": "问答",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760671906324",
+                "icon_type": "ask",
+                "link_url": ""
+            },
+            {
+                "icon": "行程路线",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/09/12/14736621124752",
+                "icon_type": "plan",
+                "link_url": "http://m.qyer.com/place/taiwan/plan/?from_device=app"
+            }
+        ],
+        "city_map": "http://7xoe6n.com2.z0.glb.qiniucdn.com/map-13697-7081.png",
+        "want_num": 0,
+        "not_miss": {
+            "events": [
+                {
+                    "id": 1150843,
+                    "photo": "https://pic1.qyer.com/album/user/1818/62/QEFUShwFaEA/index/300_200",
+                    "name": "台湾景点好评Top10",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/taiwan/event/1150843/"
+                },
+                {
+                    "id": 1150567,
+                    "photo": "https://pic1.qyer.com/album/user/1812/58/QEFUQB8PaUg/index/300_200",
+                    "name": "锦囊精选餐厅之台北篇",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/taiwan/event/1150567/"
+                }
+            ],
+            "pois": [
+                {
+                    "id": 59200,
+                    "photo": "https://pic.qyer.com/album/15a/5c/1963167/index/300_200",
+                    "name": "台北故宫博物院",
+                    "grade": "9.4",
+                    "product_type": "门票",
+                    "price": "180",
+                    "url": "https://m.qyer.com/place/taiwan/poi/59200/"
+                },
+                {
+                    "id": 100969,
+                    "photo": "https://pic.qyer.com/album/user/558/90/RExdSxoEaA/index/300_200",
+                    "name": "清水断崖",
+                    "grade": "9.1",
+                    "product_type": "包车",
+                    "price": "1625",
+                    "url": "https://m.qyer.com/place/taiwan/poi/100969/"
+                },
+                {
+                    "id": 115070,
+                    "photo": "https://pic.qyer.com/album/user/566/52/RE9TRxgOZw/index/300_200",
+                    "name": "日月潭环潭自行车道",
+                    "grade": "9.2",
+                    "product_type": "",
+                    "price": "",
+                    "url": "https://m.qyer.com/place/taiwan/poi/115070/"
+                },
+                {
+                    "id": 107729,
+                    "photo": "https://pic1.qyer.com/album/user/504/29/RElRQBMAZA/index/300_200",
+                    "name": "清境农场",
+                    "grade": "9.1",
+                    "product_type": "深度体验",
+                    "price": "417",
+                    "url": "https://m.qyer.com/place/taiwan/poi/107729/"
+                },
+                {
+                    "id": 82378,
+                    "photo": "https://pic1.qyer.com/album/12b/46/2026816/index/300_200",
+                    "name": "七星潭",
+                    "grade": "9.1",
+                    "product_type": "包车",
+                    "price": "1625",
+                    "url": "https://m.qyer.com/place/taiwan/poi/82378/"
+                },
+                {
+                    "id": 250379,
+                    "photo": "https://pic.qyer.com/album/user/547/67/RE1SRB0HaQ/index/300_200",
+                    "name": "野柳地质公园",
+                    "grade": "9.0",
+                    "product_type": "日游小团",
+                    "price": "125",
+                    "url": "https://m.qyer.com/place/taiwan/poi/250379/"
+                }
+            ]
+        },
+        "city_recommend_tag": [
+            {
+                "name": "景点",
+                "lists": [
+                    {
+                        "id": 188,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1679/36/QE9SSxkBZkg/index/300_200",
+                        "tag_name": "庙宇文化游",
+                        "url": "http://m.qyer.com/place/taiwan/event/1142696/"
+                    },
+                    {
+                        "id": 10461,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1676/70/QE9SRB0HaEs/index/300_200",
+                        "tag_name": "走访小清新书店",
+                        "url": "http://m.qyer.com/place/taiwan/event/1142539/"
+                    },
+                    {
+                        "id": 199,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1677/0/QE9SRRoHZkw/index/300_200",
+                        "tag_name": "在阿里山脉游山玩水",
+                        "url": "http://m.qyer.com/place/taiwan/event/1142578/"
+                    },
+                    {
+                        "id": 191,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1677/99/QE9SRRMOY04/index/300_200",
+                        "tag_name": "古迹探访",
+                        "url": "http://m.qyer.com/place/taiwan/event/1142610/"
+                    }
+                ]
+            },
+            {
+                "name": "美食",
+                "lists": [
+                    {
+                        "id": 363,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1879/10/QEFSSxsHYE4/index/300_200",
+                        "tag_name": "台湾夜市逛个遍",
+                        "url": "http://m.qyer.com/place/taiwan/event/1205105/"
+                    },
+                    {
+                        "id": 229,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1687/93/QE9dRRMEZks/index/300_200",
+                        "tag_name": "正宗台湾味",
+                        "url": "http://m.qyer.com/place/taiwan/event/1143098/"
+                    },
+                    {
+                        "id": 247,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/1258/1/QEtQShoGZ0A/index/300_200",
+                        "tag_name": "文艺咖啡馆",
+                        "url": ""
+                    },
+                    {
+                        "id": 254,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/2296/47/Q0tcRB4AZ0s/index/300_200",
+                        "tag_name": "不可错过的甜品店",
+                        "url": "http://m.qyer.com/place/taiwan/event/1452384/"
+                    }
+                ]
+            },
+            {
+                "name": "购物",
+                "lists": [
+                    {
+                        "id": 275,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1949/86/QEBRSxIBZUs/index/300_200",
+                        "tag_name": "台湾百货周年庆",
+                        "url": "http://m.qyer.com/place/taiwan/event/1207804/"
+                    },
+                    {
+                        "id": 10461,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1676/70/QE9SRB0HaEs/index/300_200",
+                        "tag_name": "文艺书店",
+                        "url": "http://m.qyer.com/place/taiwan/event/1142539/"
+                    },
+                    {
+                        "id": 11104,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1661/64/QE9TQxwDZEo/index/300_200",
+                        "tag_name": "太阳饼",
+                        "url": "http://m.qyer.com/place/taiwan/event/1141630/"
+                    },
+                    {
+                        "id": 11106,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1662/69/QE9TQBwOaU0/index/300_200",
+                        "tag_name": "大溪豆干",
+                        "url": "http://m.qyer.com/place/taiwan/event/1141736/"
+                    }
+                ]
+            }
+        ],
+        "recommend_discount": [
+            {
+                "id": 55155,
+                "name": "【88抢购】台湾花莲太鲁阁经典拼车一日游(1人成行,天天发团)",
+                "price": "100",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2015/10/13/14447184602092"
+            },
+            {
+                "id": 44330,
+                "name": "【经典必玩】台湾花莲赏鲸(海豚)游船体验(夏季精选)",
+                "price": "160",
+                "photo": "http://pic.qyer.com/public/supplier/lastminute/2015/07/24/14377174761377"
+            },
+            {
+                "id": 74383,
+                "name": "【海陆双拼】台湾花莲太平洋赏鲸豚+清水断崖+太鲁阁+七星潭拼车一日游(2人成行)",
+                "price": "315",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2016/05/06/14625068283068"
+            },
+            {
+                "id": 78952,
+                "name": "【88抢购】【天灯祈福】台湾台北- 九份+野柳+十分放天灯+DIY凤梨酥文化之旅",
+                "price": "125",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2016/10/28/14776372936381"
+            },
+            {
+                "id": 87640,
+                "name": "【精华必玩】台湾花莲-垦丁山海线精华一日游(往返对开,天天发团)",
+                "price": "165",
+                "photo": "http://pic.qyer.com/public/supplier/lastminute/2016/10/28/14776437444758"
+            },
+            {
+                "id": 55125,
+                "name": "台湾垦丁东海岸线拼车半日游(上午出发,天天发团)",
+                "price": "110",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2015/09/24/14430827969958"
+            }
+        ],
+        "travel_necessary": [
+            {
+                "category_id": "145,146",
+                "name": "机加酒",
+                "price": "269",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681837759"
+            },
+            {
+                "category_id": "149",
+                "name": "签证",
+                "price": "129",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681967162"
+            },
+            {
+                "category_id": "163",
+                "name": "WiFi",
+                "price": "10",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681314114"
+            },
+            {
+                "category_id": "174,175",
+                "name": "当地交通",
+                "price": "7",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681614055"
+            }
+        ],
+        "mguide_lists": [
+            {
+                "mguide_id": 2787,
+                "mguide_name": "台北不能错过的12家甜品店",
+                "mguide_photo": "http://pic1.qyer.com/album/user/981/57/SEFURx0PZQ/index/"
+            },
+            {
+                "mguide_id": 2794,
+                "mguide_name": "台北必吃15家美食",
+                "mguide_photo": "http://pic.qyer.com/album/user/981/56/SEFURxwEYg/index/"
+            },
+            {
+                "mguide_id": 2791,
+                "mguide_name": "台北10处文青圣地",
+                "mguide_photo": "http://pic1.qyer.com/album/user/981/44/SEFURh4FaQ/index/"
+            },
+            {
+                "mguide_id": 674,
+                "mguide_name": "台北吃货笔记",
+                "mguide_photo": "http://pic1.qyer.com/album/user/543/29/RE1WQBMBaA/index/"
+            },
+            {
+                "mguide_id": 2453,
+                "mguide_name": "台北最值得去的十大夜市",
+                "mguide_photo": "http://pic.qyer.com/album/user/970/53/SE5VRxkPZg/index/"
+            }
+        ]
+    },
+    "extra": {
+        "ra_switch": 1,
+        "ads": [
+            {}
+        ]
+    },
+    "ra_referer": ""
+}

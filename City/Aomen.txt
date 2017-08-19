@@ -1,0 +1,339 @@
+{
+    "status": 1,
+    "info": "OK",
+    "times": 0,
+    "data": {
+        "city_id": 51,
+        "enname": "Macau",
+        "cnname": "澳门",
+        "cover": "http://pic1.qyer.com/album/user/213/5/Q0hWQh8GYA/index/339x226",
+        "country": "中国",
+        "lat": "22.198746",
+        "lon": "113.543877",
+        "city_pic": [
+            "http://pic1.qyer.com/album/user/213/5/Q0hWQh8GYA/index/w800",
+            "http://pic1.qyer.com/album/194/29/1848228/index/w800",
+            "http://pic.qyer.com/album/1b9/89/2002978/index/w800",
+            "http://pic1.qyer.com/album/15a/ea/1131275/index/w800",
+            "http://pic.qyer.com/album/1e6/17/1848216/index/w800"
+        ],
+        "weather": {
+            "info": "晴间多云（白天）",
+            "low_temp": "29℃",
+            "high_temp": "32℃"
+        },
+        "planto": 0,
+        "guide_num": 2,
+        "icon_list": [
+            {
+                "icon": "景点玩乐",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562592918",
+                "icon_type": "play",
+                "link_url": ""
+            },
+            {
+                "icon": "美食",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562763075",
+                "icon_type": "food",
+                "link_url": ""
+            },
+            {
+                "icon": "城市指南",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604560769949",
+                "icon_type": "guide",
+                "link_url": ""
+            },
+            {
+                "icon": "特惠酒店",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563312380",
+                "icon_type": "house",
+                "link_url": "http://hotel.qyer.com/goto.php?url=http%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Faid%3D359095%26si%3Dai%252Cco%252Cci%252Cre%252Cdi%26label%3Dguid__datetime_15030287673252%26lang%3Dzh-cn%26ifl%3D%26ss%3D%25E6%25BE%25B3%25E9%2597%25A8"
+            },
+            {
+                "icon": "游记攻略",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670254580",
+                "icon_type": "travel_notes",
+                "link_url": "http://m.qyer.com/place/macau/travel-notes/?from_device=app"
+            },
+            {
+                "icon": "交通",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562347030",
+                "icon_type": "traffic",
+                "link_url": "http://m.qyer.com/place/city/macau/entry/transportationcity?from_device=app"
+            },
+            {
+                "icon": "当地游",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561189499",
+                "icon_type": "local",
+                "link_url": "qyer://action=search?type=1&categoryid=159,160&kw=51"
+            },
+            {
+                "icon": "机加酒",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561896961",
+                "icon_type": "flight",
+                "link_url": "qyer://action=search?type=1&categoryid=146,145&kw=51"
+            },
+            {
+                "icon": "景点门票",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562986449",
+                "icon_type": "ticket",
+                "link_url": "qyer://action=search?type=1&categoryid=160&kw=51"
+            },
+            {
+                "icon": "WiFi电话卡",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561688441",
+                "icon_type": "wifi",
+                "link_url": "qyer://action=search?type=1&categoryid=163&kw=51"
+            },
+            {
+                "icon": "签证",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563171279",
+                "icon_type": "visa",
+                "link_url": "http://m.qyer.com/place/country/china/entry/visa?suffix=51&from_device=app"
+            },
+            {
+                "icon": "结伴出行",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670808411",
+                "icon_type": "together",
+                "link_url": ""
+            },
+            {
+                "icon": "行程路线",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/09/12/14736621124752",
+                "icon_type": "plan",
+                "link_url": "http://m.qyer.com/place/macau/plan/?from_device=app"
+            },
+            {
+                "icon": "问答",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760671906324",
+                "icon_type": "ask",
+                "link_url": ""
+            }
+        ],
+        "city_map": "http://7xoe6n.com2.z0.glb.qiniucdn.com/map-13359-7155.png",
+        "want_num": 0,
+        "not_miss": {
+            "events": [
+                {
+                    "id": 1150663,
+                    "photo": "https://pic.qyer.com/album/user/1814/35/QEFURhkCYk4/index/300_200",
+                    "name": "澳门景点好评Top10",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/macau/event/1150663/"
+                },
+                {
+                    "id": 1150664,
+                    "photo": "https://pic.qyer.com/album/user/1814/35/QEFURhkCYUE/index/300_200",
+                    "name": "澳门美食好评Top10",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/macau/event/1150664/"
+                }
+            ],
+            "pois": [
+                {
+                    "id": 84090,
+                    "photo": "https://pic.qyer.com/album/user/317/93/QkhSSxkOZw/index/300_200",
+                    "name": "澳门威尼斯人",
+                    "grade": "9.1",
+                    "product_type": "门票",
+                    "price": "75",
+                    "url": "https://m.qyer.com/place/macau/poi/84090/"
+                },
+                {
+                    "id": 33741,
+                    "photo": "https://pic1.qyer.com/album/user/214/48/Q0hRRhIEaQ/index/300_200",
+                    "name": "澳门大三巴牌坊",
+                    "grade": "8.3",
+                    "product_type": "日游小团",
+                    "price": "335",
+                    "url": "https://m.qyer.com/place/macau/poi/33741/"
+                },
+                {
+                    "id": 33780,
+                    "photo": "https://pic.qyer.com/album/user/213/5/Q0hWQh8GYA/index/300_200",
+                    "name": "玫瑰堂",
+                    "grade": "8.6",
+                    "product_type": "日游小团",
+                    "price": "335",
+                    "url": "https://m.qyer.com/place/macau/poi/33780/"
+                },
+                {
+                    "id": 42022,
+                    "photo": "https://pic1.qyer.com/album/user/999/6/SEBcQhwFYg/index/300_200",
+                    "name": "氹仔岛",
+                    "grade": "8.6",
+                    "product_type": "",
+                    "price": "",
+                    "url": "https://m.qyer.com/place/macau/poi/42022/"
+                },
+                {
+                    "id": 33767,
+                    "photo": "https://pic1.qyer.com/album/user/855/43/SUxQRhkHZQ/index/300_200",
+                    "name": "议事亭前地",
+                    "grade": "8.4",
+                    "product_type": "日游小团",
+                    "price": "335",
+                    "url": "https://m.qyer.com/place/macau/poi/33767/"
+                },
+                {
+                    "id": 34752,
+                    "photo": "https://pic.qyer.com/album/user/1168/78/QEhTSh0PaEs/index/300_200",
+                    "name": "澳门旅游塔",
+                    "grade": "8.7",
+                    "product_type": "当地游",
+                    "price": "125",
+                    "url": "https://m.qyer.com/place/macau/poi/34752/"
+                }
+            ]
+        },
+        "city_recommend_tag": [
+            {
+                "name": "景点",
+                "lists": [
+                    {
+                        "id": 183,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1678/34/QE9SShkDY0s/index/300_200",
+                        "tag_name": "细赏欧式建筑",
+                        "url": "http://m.qyer.com/place/macau/event/1142652/"
+                    },
+                    {
+                        "id": 185,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/213/5/Q0hWQh8GYA/index/300_200",
+                        "tag_name": "欧式教堂",
+                        "url": ""
+                    },
+                    {
+                        "id": 2020,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/702/70/RklXRRoCYw/index/300_200",
+                        "tag_name": "极限运动",
+                        "url": ""
+                    },
+                    {
+                        "id": 10918,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/909/34/SElcQR4OYQ/index/300_200",
+                        "tag_name": "水上威尼斯",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "name": "美食",
+                "lists": [
+                    {
+                        "id": 2495,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1678/42/QE9SSh4FaU4/index/300_200",
+                        "tag_name": "葡式料理",
+                        "url": "http://m.qyer.com/place/macau/event/1142657/"
+                    },
+                    {
+                        "id": 254,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/441/12/RU1UQxgEZg/index/300_200",
+                        "tag_name": "精美甜点",
+                        "url": ""
+                    },
+                    {
+                        "id": 2017,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/909/27/SElcQB0GYw/index/300_200",
+                        "tag_name": "吃遍米其林",
+                        "url": ""
+                    },
+                    {
+                        "id": 229,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/541/51/RE1URxsEZw/index/300_200",
+                        "tag_name": "澳门特色",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "name": "购物",
+                "lists": [
+                    {
+                        "id": 10070,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1678/44/QE9SSh4DYEw/index/300_200",
+                        "tag_name": "最佳伴手礼",
+                        "url": "http://m.qyer.com/place/macau/event/1142665/"
+                    },
+                    {
+                        "id": 275,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/505/78/RElQRRICaA/index/300_200",
+                        "tag_name": "购物中心",
+                        "url": ""
+                    }
+                ]
+            }
+        ],
+        "recommend_discount": [
+            {
+                "id": 71814,
+                "name": "【赠送敞篷巴士】澳门文化遗产美食漫步一日游(香港/澳门出发,2人起订)",
+                "price": "335",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2016/04/01/14595068673778"
+            }
+        ],
+        "travel_necessary": [
+            {
+                "category_id": "145,146",
+                "name": "机加酒",
+                "price": "599",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681837759"
+            },
+            {
+                "category_id": "163",
+                "name": "WiFi",
+                "price": "3",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681314114"
+            },
+            {
+                "category_id": "174,175",
+                "name": "当地交通",
+                "price": "69",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681614055"
+            }
+        ],
+        "mguide_lists": [
+            {
+                "mguide_id": 365,
+                "mguide_name": "两个吃货的澳门美食之旅",
+                "mguide_photo": "http://pic.qyer.com/album/user/260/51/Q09VRxsPZQ/index/"
+            },
+            {
+                "mguide_id": 2106,
+                "mguide_name": "享受澳门慢生活",
+                "mguide_photo": "http://pic.qyer.com/album/user/923/66/SEtWRBwHYQ/index/"
+            },
+            {
+                "mguide_id": 2717,
+                "mguide_name": "澳门回味无穷的小吃",
+                "mguide_photo": "http://pic1.qyer.com/album/user/990/59/SEBVRxMPYg/index/"
+            },
+            {
+                "mguide_id": 363,
+                "mguide_name": "澳门美食推荐",
+                "mguide_photo": "http://pic1.qyer.com/album/user/441/44/RU1URh4AYQ/index/"
+            },
+            {
+                "mguide_id": 2744,
+                "mguide_name": "港澳平价美食介绍",
+                "mguide_photo": "http://pic1.qyer.com/album/user/992/5/SEBXQh8BZw/index/"
+            }
+        ]
+    },
+    "extra": {
+        "ra_switch": 1,
+        "ads": [
+            {}
+        ]
+    },
+    "ra_referer": ""
+}

@@ -1,0 +1,395 @@
+{
+    "status": 1,
+    "info": "OK",
+    "times": 0,
+    "data": {
+        "city_id": 8845,
+        "enname": "Phuket Island",
+        "cnname": "普吉岛",
+        "cover": "http://pic1.qyer.com/album/172/48/1871854/index/339x226",
+        "country": "泰国",
+        "lat": "7.984311",
+        "lon": "98.330750",
+        "city_pic": [
+            "http://pic.qyer.com/album/172/48/1871854/index/w800",
+            "http://pic.qyer.com/album/1fa/ea/1982368/index/w800",
+            "http://pic1.qyer.com/album/102/8f/2013955/index/w800",
+            "http://pic1.qyer.com/album/13a/5f/1908505/index/w800",
+            "http://pic.qyer.com/album/102/90/2013954/index/w800"
+        ],
+        "weather": {
+            "info": "雷暴",
+            "low_temp": "27℃",
+            "high_temp": "29℃"
+        },
+        "planto": 0,
+        "guide_num": 2,
+        "icon_list": [
+            {
+                "icon": "景点玩乐",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562592918",
+                "icon_type": "play",
+                "link_url": ""
+            },
+            {
+                "icon": "美食",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562763075",
+                "icon_type": "food",
+                "link_url": ""
+            },
+            {
+                "icon": "城市指南",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604560769949",
+                "icon_type": "guide",
+                "link_url": ""
+            },
+            {
+                "icon": "特惠酒店",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563312380",
+                "icon_type": "house",
+                "link_url": "http://hotel.qyer.com/goto.php?url=http%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Faid%3D359095%26si%3Dai%252Cco%252Cci%252Cre%252Cdi%26label%3Dguid__datetime_15030310244589%26lang%3Dzh-cn%26ifl%3D%26ss%3D%25E6%2599%25AE%25E5%2590%2589%25E5%25B2%259B"
+            },
+            {
+                "icon": "游记攻略",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670254580",
+                "icon_type": "travel_notes",
+                "link_url": "http://m.qyer.com/place/phuket-island/travel-notes/?from_device=app"
+            },
+            {
+                "icon": "交通",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562347030",
+                "icon_type": "traffic",
+                "link_url": "http://m.qyer.com/place/city/phuket-island/entry/transportationcity?from_device=app"
+            },
+            {
+                "icon": "机加酒",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561896961",
+                "icon_type": "flight",
+                "link_url": "qyer://action=search?type=1&categoryid=146,145&kw=8845"
+            },
+            {
+                "icon": "自驾租车",
+                "icon_pic": "http://pic.qyer.com/public/2017/04/01/58df486f94d57.png",
+                "icon_type": "rentcar",
+                "link_url": "http://m.qyer.com/z/car/?city_id=3080&city_name=普吉岛  10138&city_name_en=Phuket&return_id=3080&return_name=普吉岛  10138&return_name_en=Phuket&city=3080&region=Thailand&utm_term=3080&utm_source=c03729731-m&utm_medium=partner&utm_campaign=dest&utm_term=金刚位"
+            },
+            {
+                "icon": "当地游",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561189499",
+                "icon_type": "local",
+                "link_url": "qyer://action=search?type=1&categoryid=159,160&kw=8845"
+            },
+            {
+                "icon": "景点门票",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562986449",
+                "icon_type": "ticket",
+                "link_url": "qyer://action=search?type=1&categoryid=160&kw=8845"
+            },
+            {
+                "icon": "WiFi电话卡",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561688441",
+                "icon_type": "wifi",
+                "link_url": "qyer://action=search?type=1&categoryid=163&kw=8845"
+            },
+            {
+                "icon": "签证",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563171279",
+                "icon_type": "visa",
+                "link_url": "http://m.qyer.com/place/country/thailand/entry/visa?suffix=8845&from_device=app"
+            },
+            {
+                "icon": "结伴出行",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670808411",
+                "icon_type": "together",
+                "link_url": ""
+            },
+            {
+                "icon": "行程路线",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/09/12/14736621124752",
+                "icon_type": "plan",
+                "link_url": "http://m.qyer.com/place/phuket-island/plan/?from_device=app"
+            },
+            {
+                "icon": "问答",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760671906324",
+                "icon_type": "ask",
+                "link_url": ""
+            }
+        ],
+        "city_map": "http://7xoe6n.com2.z0.glb.qiniucdn.com/map-12667-7827.png",
+        "want_num": 0,
+        "not_miss": {
+            "events": [
+                {
+                    "id": 1149324,
+                    "photo": "https://pic1.qyer.com/album/user/1792/28/QE5cQBgPY08/index/300_200",
+                    "name": "普吉岛人气景点TOP10",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/phuket-island/event/1149324/"
+                },
+                {
+                    "id": 1446395,
+                    "photo": "https://pic1.qyer.com/album/user/2028/72/Q0lXSh0FaEs/index/300_200",
+                    "name": "普吉岛美食好评榜",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/phuket-island/event/1446395/"
+                }
+            ],
+            "pois": [
+                {
+                    "id": 71546,
+                    "photo": "https://pic.qyer.com/album/172/48/1871854/index/300_200",
+                    "name": "皇帝岛",
+                    "grade": "9.1",
+                    "product_type": "深度体验",
+                    "price": "180",
+                    "url": "https://m.qyer.com/place/phuket-island/poi/71546/"
+                },
+                {
+                    "id": 71540,
+                    "photo": "https://pic1.qyer.com/album/1da/c6/1866816/index/300_200",
+                    "name": "卡塔海滩",
+                    "grade": "8.9",
+                    "product_type": "深度体验",
+                    "price": "499",
+                    "url": "https://m.qyer.com/place/phuket-island/poi/71540/"
+                },
+                {
+                    "id": 71544,
+                    "photo": "https://pic1.qyer.com/album/user/595/59/REBQRxMGYA/index/300_200",
+                    "name": "卡伦海滩",
+                    "grade": "8.9",
+                    "product_type": "",
+                    "price": "",
+                    "url": "https://m.qyer.com/place/phuket-island/poi/71544/"
+                },
+                {
+                    "id": 82176,
+                    "photo": "https://pic1.qyer.com/album/user/461/28/RU9UQBIOaQ/index/300_200",
+                    "name": "普吉西蒙人妖秀",
+                    "grade": "8.9",
+                    "product_type": "门票",
+                    "price": "48",
+                    "url": "https://m.qyer.com/place/phuket-island/poi/82176/"
+                },
+                {
+                    "id": 579874,
+                    "photo": "https://pic1.qyer.com/album/user/2294/66/Q0tcRhwBZUg/index/300_200",
+                    "name": "皮皮岛",
+                    "grade": "8.9",
+                    "product_type": "交通票券",
+                    "price": "78",
+                    "url": "https://m.qyer.com/place/phuket-island/poi/579874/"
+                },
+                {
+                    "id": 87258,
+                    "photo": "https://pic1.qyer.com/album/user/410/14/RUhVQx4EYQ/index/300_200",
+                    "name": "泰式spa按摩",
+                    "grade": "9.1",
+                    "product_type": "",
+                    "price": "",
+                    "url": "https://m.qyer.com/place/phuket-island/poi/87258/"
+                }
+            ]
+        },
+        "city_recommend_tag": [
+            {
+                "name": "景点",
+                "lists": [
+                    {
+                        "id": 210,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1599/44/QExcSx4DZE8/index/300_200",
+                        "tag_name": "离岛观光",
+                        "url": "http://m.qyer.com/place/phuket-island/event/1139737/"
+                    },
+                    {
+                        "id": 11056,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/410/14/RUhVQx4EYQ/index/300_200",
+                        "tag_name": "泰式按摩",
+                        "url": "http://m.qyer.com/place/phuket-island/event/87258/"
+                    },
+                    {
+                        "id": 10042,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/377/99/Qk5SSxMHZg/index/300_200",
+                        "tag_name": "普吉岛潜水",
+                        "url": "http://m.qyer.com/place/phuket-island/event/87249/"
+                    },
+                    {
+                        "id": 10055,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/1da/c6/1866816/index/300_200",
+                        "tag_name": "海滩落日",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "name": "美食",
+                "lists": [
+                    {
+                        "id": 252,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/477/18/RU5SQxIOYA/index/300_200",
+                        "tag_name": "海鲜餐厅",
+                        "url": ""
+                    },
+                    {
+                        "id": 363,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1603/72/QE9VQR0FYEo/index/300_200",
+                        "tag_name": "美味大排档",
+                        "url": "http://m.qyer.com/place/phuket-island/event/1139881/"
+                    },
+                    {
+                        "id": 10358,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1535/10/QExWRxsHaEs/index/300_200",
+                        "tag_name": "泰好吃",
+                        "url": "http://m.qyer.com/place/phuket-island/event/87256/"
+                    },
+                    {
+                        "id": 253,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/1738/23/QE5WShgEYEA/index/300_200",
+                        "tag_name": "旅行简餐",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "name": "购物",
+                "lists": [
+                    {
+                        "id": 1239,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/532/24/REpXQB4OYA/index/300_200",
+                        "tag_name": "当地集市",
+                        "url": ""
+                    },
+                    {
+                        "id": 2531,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/1320/94/QEpXQhMDYEw/index/300_200",
+                        "tag_name": "纪念品店",
+                        "url": ""
+                    },
+                    {
+                        "id": 275,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/329/25/QktcQB8HYA/index/300_200",
+                        "tag_name": "购物中心",
+                        "url": ""
+                    },
+                    {
+                        "id": 266,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/329/25/QktcQB8HYA/index/300_200",
+                        "tag_name": "特色手工艺品",
+                        "url": ""
+                    }
+                ]
+            }
+        ],
+        "recommend_discount": [
+            {
+                "id": 47187,
+                "name": "【精华之旅】泰国普吉岛山顶大佛-查龙寺-老镇咖啡馆-普吉镇老街-GMS湖畔餐厅环岛拼车半日游(2人起订,含午餐)",
+                "price": "69",
+                "photo": "http://pic.qyer.com/public/supplier/lastminute/2017/07/07/14994108873965"
+            },
+            {
+                "id": 21215,
+                "name": "泰国普吉岛攀牙湾大船一日游(含皮艇泛舟)",
+                "price": "288",
+                "photo": "http://pic.qyer.com/public/supplier/lastminute/2015/08/19/14399553271361"
+            },
+            {
+                "id": 14836,
+                "name": "【赠免税店优惠券】泰国普吉岛皇帝岛Bungalow Raya快艇浮潜一日游(含午餐)",
+                "price": "180",
+                "photo": "http://pic.qyer.com/public/supplier/lastminute/2015/07/22/14375673625320"
+            },
+            {
+                "id": 14853,
+                "name": "泰国普吉皮皮岛+竹子岛Sea Star快艇浮潜一日游(含中/英文导游,视频更精彩)",
+                "price": "375",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2016/06/29/14671700298969"
+            },
+            {
+                "id": 48284,
+                "name": "【最美岛屿】泰国普吉皮皮岛+蛋岛快艇浮潜一日游(中文导游+午餐,赠免税店优惠券)",
+                "price": "298",
+                "photo": "http://pic.qyer.com/public/supplier/lastminute/2016/04/11/14603604702656"
+            },
+            {
+                "id": 47318,
+                "name": "【赠免税店优惠券】泰国普吉岛卡马拉海景骑大象(含接送)",
+                "price": "72",
+                "photo": "http://pic.qyer.com/public/supplier/lastminute/2017/06/21/14980271934973"
+            }
+        ],
+        "travel_necessary": [
+            {
+                "category_id": "145,146",
+                "name": "机加酒",
+                "price": "1199",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681837759"
+            },
+            {
+                "category_id": "149",
+                "name": "签证",
+                "price": "9.9",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681967162"
+            },
+            {
+                "category_id": "163",
+                "name": "WiFi",
+                "price": "3",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681314114"
+            },
+            {
+                "category_id": "174,175",
+                "name": "当地交通",
+                "price": "69",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681614055"
+            }
+        ],
+        "mguide_lists": [
+            {
+                "mguide_id": 967,
+                "mguide_name": "普吉岛海滩特点介绍 从北到南",
+                "mguide_photo": "http://pic.qyer.com/album/user/711/4/RkhUQh4FZA/index/"
+            },
+            {
+                "mguide_id": 799,
+                "mguide_name": "普吉岛SPA馆总结",
+                "mguide_photo": "http://pic.qyer.com/album/user/680/56/R0FVRxwGYg/index/"
+            },
+            {
+                "mguide_id": 797,
+                "mguide_name": "鱼儿仔普吉美食攻略之泰好吃",
+                "mguide_photo": "http://pic1.qyer.com/album/user/439/55/RUpcRx8CaQ/index/"
+            },
+            {
+                "mguide_id": 1312,
+                "mguide_name": "普吉岛大家总在吃的人气餐厅",
+                "mguide_photo": "http://pic1.qyer.com/album/user/762/51/Rk9XRxsOYA/index/"
+            },
+            {
+                "mguide_id": 969,
+                "mguide_name": "普吉岛那些总在行程上的活动",
+                "mguide_photo": "http://pic1.qyer.com/album/user/712/50/RkhXRxoHYg/index/"
+            }
+        ]
+    },
+    "extra": {
+        "ra_switch": 1,
+        "ads": [
+            {}
+        ]
+    },
+    "ra_referer": ""
+}

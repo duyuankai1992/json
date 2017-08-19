@@ -1,0 +1,381 @@
+{
+    "status": 1,
+    "info": "OK",
+    "times": 0,
+    "data": {
+        "city_id": 42,
+        "enname": "Amsterdam",
+        "cnname": "阿姆斯特丹",
+        "cover": "http://pic1.qyer.com/album/user/212/61/Q0hXRBsPZw/index/339x226",
+        "country": "荷兰",
+        "lat": "52.370216",
+        "lon": "4.895168",
+        "city_pic": [
+            "http://pic.qyer.com/album/user/212/61/Q0hXRBsPZw/index/w800",
+            "http://pic1.qyer.com/album/user/659/27/R0xcQB0HYA/index/w800",
+            "http://pic1.qyer.com/album/1a3/4a/1829305/index/w800",
+            "http://pic1.qyer.com/album/10e/f0/2016672/index/w800",
+            "http://pic1.qyer.com/album/user/576/78/RE5TRRIDYA/index/w800"
+        ],
+        "weather": {
+            "info": "多云",
+            "low_temp": "16℃",
+            "high_temp": "20℃"
+        },
+        "planto": 0,
+        "guide_num": 1,
+        "icon_list": [
+            {
+                "icon": "景点玩乐",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562592918",
+                "icon_type": "play",
+                "link_url": ""
+            },
+            {
+                "icon": "美食",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562763075",
+                "icon_type": "food",
+                "link_url": ""
+            },
+            {
+                "icon": "城市指南",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604560769949",
+                "icon_type": "guide",
+                "link_url": ""
+            },
+            {
+                "icon": "特惠酒店",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563312380",
+                "icon_type": "house",
+                "link_url": "http://hotel.qyer.com/goto.php?url=http%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Faid%3D359095%26si%3Dai%252Cco%252Cci%252Cre%252Cdi%26label%3Dguid__datetime_15030312236187%26lang%3Dzh-cn%26ifl%3D%26ss%3D%25E9%2598%25BF%25E5%25A7%2586%25E6%2596%25AF%25E7%2589%25B9%25E4%25B8%25B9"
+            },
+            {
+                "icon": "游记攻略",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670254580",
+                "icon_type": "travel_notes",
+                "link_url": "http://m.qyer.com/place/amsterdam/travel-notes/?from_device=app"
+            },
+            {
+                "icon": "交通",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562347030",
+                "icon_type": "traffic",
+                "link_url": "http://m.qyer.com/place/city/amsterdam/entry/transportationcity?from_device=app"
+            },
+            {
+                "icon": "机加酒",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561896961",
+                "icon_type": "flight",
+                "link_url": "qyer://action=search?type=1&categoryid=146,145&kw=42"
+            },
+            {
+                "icon": "自驾租车",
+                "icon_pic": "http://pic.qyer.com/public/2017/04/01/58df486f94d57.png",
+                "icon_type": "rentcar",
+                "link_url": "http://m.qyer.com/z/car/?city_id=1621&city_name=阿姆斯特丹&city_name_en=Amsterdam&return_id=1621&return_name=阿姆斯特丹&return_name_en=Amsterdam&city=1621&region=10056&utm_term=1621&utm_source=c03729731-m&utm_medium=partner&utm_campaign=dest&utm_term=金刚位"
+            },
+            {
+                "icon": "当地游",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561189499",
+                "icon_type": "local",
+                "link_url": "qyer://action=search?type=1&categoryid=159,160&kw=42"
+            },
+            {
+                "icon": "景点门票",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562986449",
+                "icon_type": "ticket",
+                "link_url": "qyer://action=search?type=1&categoryid=160&kw=42"
+            },
+            {
+                "icon": "WiFi电话卡",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561688441",
+                "icon_type": "wifi",
+                "link_url": "qyer://action=search?type=1&categoryid=163&kw=42"
+            },
+            {
+                "icon": "签证",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563171279",
+                "icon_type": "visa",
+                "link_url": "http://m.qyer.com/place/country/netherlands/entry/visa?suffix=42&from_device=app"
+            },
+            {
+                "icon": "结伴出行",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670808411",
+                "icon_type": "together",
+                "link_url": ""
+            },
+            {
+                "icon": "行程路线",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/09/12/14736621124752",
+                "icon_type": "plan",
+                "link_url": "http://m.qyer.com/place/amsterdam/plan/?from_device=app"
+            },
+            {
+                "icon": "问答",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760671906324",
+                "icon_type": "ask",
+                "link_url": ""
+            }
+        ],
+        "city_map": "http://7xoe6n.com2.z0.glb.qiniucdn.com/map-8414-5384.png",
+        "want_num": 0,
+        "not_miss": {
+            "events": [
+                {
+                    "id": 1161141,
+                    "photo": "https://pic1.qyer.com/album/user/1849/26/QEFRSxgBaE8/index/300_200",
+                    "name": "阿姆斯特丹景点好评Top10",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/amsterdam/event/1161141/"
+                },
+                {
+                    "id": 1446131,
+                    "photo": "https://pic1.qyer.com/album/user/2019/70/Q0lUSx0HZ0o/index/300_200",
+                    "name": "阿姆斯特丹美食好评Top10",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/amsterdam/event/1446131/"
+                }
+            ],
+            "pois": [
+                {
+                    "id": 52271,
+                    "photo": "https://pic1.qyer.com/album/user/817/41/SUhSRhsEZg/index/300_200",
+                    "name": "阿姆斯特丹梵高美术馆",
+                    "grade": "9.3",
+                    "product_type": "交通票券",
+                    "price": "297",
+                    "url": "https://m.qyer.com/place/amsterdam/poi/52271/"
+                },
+                {
+                    "id": 34409,
+                    "photo": "https://pic.qyer.com/album/1a2/35/1839385/index/300_200",
+                    "name": "阿姆斯特丹国家博物馆",
+                    "grade": "9.2",
+                    "product_type": "交通票券",
+                    "price": "297",
+                    "url": "https://m.qyer.com/place/amsterdam/poi/34409/"
+                },
+                {
+                    "id": 121028,
+                    "photo": "https://pic1.qyer.com/album/134/8f/317922/index/300_200",
+                    "name": "阿姆斯特丹运河带",
+                    "grade": "9.3",
+                    "product_type": "交通票券",
+                    "price": "62",
+                    "url": "https://m.qyer.com/place/amsterdam/poi/121028/"
+                },
+                {
+                    "id": 61993,
+                    "photo": "https://pic.qyer.com/album/user/650/30/R0xVQRoFZw/index/300_200",
+                    "name": "桑斯安斯风车村",
+                    "grade": "8.7",
+                    "product_type": "日游小团",
+                    "price": "427",
+                    "url": "https://m.qyer.com/place/amsterdam/poi/61993/"
+                },
+                {
+                    "id": 88838,
+                    "photo": "https://pic.qyer.com/album/user/354/61/QkxRRBsEZg/index/300_200",
+                    "name": "阿姆斯特丹红灯区",
+                    "grade": "8.5",
+                    "product_type": "日游小团",
+                    "price": "1",
+                    "url": "https://m.qyer.com/place/amsterdam/poi/88838/"
+                },
+                {
+                    "id": 55990,
+                    "photo": "https://pic1.qyer.com/album/1ca/00/758395/index/300_200",
+                    "name": "阿姆斯特丹博物馆广场",
+                    "grade": "8.6",
+                    "product_type": "",
+                    "price": "",
+                    "url": "https://m.qyer.com/place/amsterdam/poi/55990/"
+                }
+            ]
+        },
+        "city_recommend_tag": [
+            {
+                "name": "景点",
+                "lists": [
+                    {
+                        "id": 201,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1672/74/QE9SQB0DYko/index/300_200",
+                        "tag_name": "风车花都",
+                        "url": "http://m.qyer.com/place/amsterdam/event/1142325/"
+                    },
+                    {
+                        "id": 1239,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1680/11/QE9dQhsGZUg/index/300_200",
+                        "tag_name": "创意市集",
+                        "url": "http://m.qyer.com/place/amsterdam/event/1142764/"
+                    },
+                    {
+                        "id": 175,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/817/41/SUhSRhsEZg/index/300_200",
+                        "tag_name": "趣味博物馆",
+                        "url": ""
+                    },
+                    {
+                        "id": 2015,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/1609/40/QE9VSx4HYk8/index/300_200",
+                        "tag_name": "地标建筑",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "name": "美食",
+                "lists": [
+                    {
+                        "id": 2473,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/2235/15/Q0tWRxsCaEA/index/300_200",
+                        "tag_name": "地道荷兰料理",
+                        "url": "http://m.qyer.com/place/amsterdam/event/457121/"
+                    },
+                    {
+                        "id": 247,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/2235/15/Q0tWRxsCaEA/index/300_200",
+                        "tag_name": "人气咖啡馆",
+                        "url": "http://m.qyer.com/place/amsterdam/event/457121/"
+                    },
+                    {
+                        "id": 237,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/812/71/SUhXRRsEYw/index/300_200",
+                        "tag_name": "元气早午餐",
+                        "url": ""
+                    },
+                    {
+                        "id": 249,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/2235/15/Q0tWRxsCaEA/index/300_200",
+                        "tag_name": "酒吧撒欢",
+                        "url": "http://m.qyer.com/place/amsterdam/event/457121/"
+                    }
+                ]
+            },
+            {
+                "name": "购物",
+                "lists": [
+                    {
+                        "id": 1239,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1680/11/QE9dQhsGZUg/index/300_200",
+                        "tag_name": "创意市集",
+                        "url": "http://m.qyer.com/place/amsterdam/event/1142764/"
+                    },
+                    {
+                        "id": 275,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/752/88/RkxXShICYg/index/300_200",
+                        "tag_name": "血拼圣地",
+                        "url": ""
+                    }
+                ]
+            }
+        ],
+        "recommend_discount": [
+            {
+                "id": 61857,
+                "name": "荷兰阿姆斯特丹市内徒步半日游(是的，1元)",
+                "price": "1",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2015/12/18/14504280335941"
+            },
+            {
+                "id": 62086,
+                "name": "荷兰阿姆斯特丹往返桑斯安斯风车村+沃伦丹渔村半日游(每天出发)",
+                "price": "427",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2015/12/21/14506852075329"
+            },
+            {
+                "id": 63043,
+                "name": "荷兰阿姆斯特丹国家博物馆+梵高美术馆+运河游船之旅",
+                "price": "399",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2016/01/04/14518889237230"
+            },
+            {
+                "id": 62101,
+                "name": "荷兰阿姆斯特丹往返桑斯安斯风车村+沃伦丹渔村一日游(精品小团)",
+                "price": "455",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2015/12/21/14506867075192"
+            },
+            {
+                "id": 64838,
+                "name": "比利时布鲁塞尔+滑铁卢一日游(阿姆斯特丹出发,中文导游)",
+                "price": "519",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2016/01/20/14532704301206"
+            },
+            {
+                "id": 63182,
+                "name": "荷兰阿姆斯特丹往返羊角村+圩田+艾瑟尔湖巴士一日游",
+                "price": "725",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2016/01/05/14519892807247"
+            }
+        ],
+        "travel_necessary": [
+            {
+                "category_id": "145,146",
+                "name": "机加酒",
+                "price": "3399",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681837759"
+            },
+            {
+                "category_id": "149",
+                "name": "签证",
+                "price": "110",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681967162"
+            },
+            {
+                "category_id": "163",
+                "name": "WiFi",
+                "price": "18.8",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681314114"
+            },
+            {
+                "category_id": "174,175",
+                "name": "当地交通",
+                "price": "62",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681614055"
+            }
+        ],
+        "mguide_lists": [
+            {
+                "mguide_id": 1686,
+                "mguide_name": "阿姆斯特丹的著名市集",
+                "mguide_photo": "http://pic.qyer.com/album/user/812/24/SUhXQB4EaQ/index/"
+            },
+            {
+                "mguide_id": 1702,
+                "mguide_name": "在阿姆斯特丹如何吃得便宜",
+                "mguide_photo": "http://pic.qyer.com/album/user/813/63/SUhWRBkFYg/index/"
+            },
+            {
+                "mguide_id": 3628,
+                "mguide_name": "阿姆斯特丹适合女生游玩景点-在风尘中寻找优雅",
+                "mguide_photo": "http://pic.qyer.com/album/user/1082/34/QEldQBkDYkw/index/"
+            },
+            {
+                "mguide_id": 1712,
+                "mguide_name": "在阿姆斯特丹吃地道的荷兰菜",
+                "mguide_photo": "http://pic.qyer.com/album/user/814/70/SUhRRRoDZA/index/"
+            },
+            {
+                "mguide_id": 1665,
+                "mguide_name": "阿姆斯特丹TOP咖啡馆介绍",
+                "mguide_photo": "http://pic.qyer.com/album/user/810/46/SUhVRhwAZA/index/"
+            }
+        ]
+    },
+    "extra": {
+        "ra_switch": 1,
+        "ads": [
+            {}
+        ]
+    },
+    "ra_referer": ""
+}

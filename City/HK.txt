@@ -1,0 +1,389 @@
+{
+    "status": 1,
+    "info": "OK",
+    "times": 0,
+    "data": {
+        "city_id": 50,
+        "enname": "Hong Kong",
+        "cnname": "香港",
+        "cover": "http://pic.qyer.com/album/user/370/89/Qk5VShMOaA/index/339x226",
+        "country": "中国",
+        "lat": "22.396427",
+        "lon": "114.109497",
+        "city_pic": [
+            "http://pic1.qyer.com/album/user/370/89/Qk5VShMOaA/index/w800",
+            "http://pic1.qyer.com/album/user/213/10/Q0hWQxoFYw/index/w800",
+            "http://pic.qyer.com/album/169/e3/1857082/index/w800",
+            "http://pic.qyer.com/album/163/6e/1857093/index/w800",
+            "http://pic.qyer.com/album/user/213/10/Q0hWQxoGYg/index/w800"
+        ],
+        "weather": {
+            "info": "",
+            "low_temp": "℃",
+            "high_temp": "℃"
+        },
+        "planto": 0,
+        "guide_num": 6,
+        "icon_list": [
+            {
+                "icon": "景点玩乐",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562592918",
+                "icon_type": "play",
+                "link_url": ""
+            },
+            {
+                "icon": "美食",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562763075",
+                "icon_type": "food",
+                "link_url": ""
+            },
+            {
+                "icon": "城市指南",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604560769949",
+                "icon_type": "guide",
+                "link_url": ""
+            },
+            {
+                "icon": "特惠酒店",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563312380",
+                "icon_type": "house",
+                "link_url": "http://hotel.qyer.com/goto.php?url=http%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Faid%3D359095%26si%3Dai%252Cco%252Cci%252Cre%252Cdi%26label%3Dguid__datetime_15030271393569%26lang%3Dzh-cn%26ifl%3D%26ss%3D%25E9%25A6%2599%25E6%25B8%25AF"
+            },
+            {
+                "icon": "游记攻略",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670254580",
+                "icon_type": "travel_notes",
+                "link_url": "http://m.qyer.com/place/hong-kong/travel-notes/?from_device=app"
+            },
+            {
+                "icon": "交通",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562347030",
+                "icon_type": "traffic",
+                "link_url": "http://m.qyer.com/place/city/hong-kong/entry/transportationcity?from_device=app"
+            },
+            {
+                "icon": "机加酒",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561896961",
+                "icon_type": "flight",
+                "link_url": "qyer://action=search?type=1&categoryid=146,145&kw=50"
+            },
+            {
+                "icon": "自驾租车",
+                "icon_pic": "http://pic.qyer.com/public/2017/04/01/58df486f94d57.png",
+                "icon_type": "rentcar",
+                "link_url": "http://m.qyer.com/z/car/?city_id=1672&city_name=香港&city_name_en=Hong Kong&return_id=1672&return_name=香港&return_name_en=Hong Kong&city=1672&region=10059&utm_term=1672&utm_source=c03729731-m&utm_medium=partner&utm_campaign=dest&utm_term=金刚位"
+            },
+            {
+                "icon": "当地游",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561189499",
+                "icon_type": "local",
+                "link_url": "qyer://action=search?type=1&categoryid=159,160&kw=50"
+            },
+            {
+                "icon": "景点门票",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562986449",
+                "icon_type": "ticket",
+                "link_url": "qyer://action=search?type=1&categoryid=160&kw=50"
+            },
+            {
+                "icon": "WiFi电话卡",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561688441",
+                "icon_type": "wifi",
+                "link_url": "qyer://action=search?type=1&categoryid=163&kw=50"
+            },
+            {
+                "icon": "签证",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563171279",
+                "icon_type": "visa",
+                "link_url": "http://m.qyer.com/place/country/china/entry/visa?suffix=50&from_device=app"
+            },
+            {
+                "icon": "结伴出行",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670808411",
+                "icon_type": "together",
+                "link_url": ""
+            },
+            {
+                "icon": "行程路线",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/09/12/14736621124752",
+                "icon_type": "plan",
+                "link_url": "http://m.qyer.com/place/hong-kong/plan/?from_device=app"
+            },
+            {
+                "icon": "问答",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760671906324",
+                "icon_type": "ask",
+                "link_url": ""
+            }
+        ],
+        "city_map": "http://7xoe6n.com2.z0.glb.qiniucdn.com/map-13385-7145.png",
+        "want_num": 0,
+        "not_miss": {
+            "events": [
+                {
+                    "id": 1149512,
+                    "photo": "https://pic.qyer.com/album/user/1796/88/QE5cRBIPYUs/index/300_200",
+                    "name": "香港景点好评Top10",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/hong-kong/event/1149512/"
+                },
+                {
+                    "id": 1149525,
+                    "photo": "https://pic.qyer.com/album/user/1796/97/QE5cRBMAaU0/index/300_200",
+                    "name": "香港美食好评Top10",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/hong-kong/event/1149525/"
+                }
+            ],
+            "pois": [
+                {
+                    "id": 83130,
+                    "photo": "https://pic.qyer.com/album/user/1982/22/QEBdQBgFY0w/index/300_200",
+                    "name": "太平山",
+                    "grade": "8.9",
+                    "product_type": "日游小团",
+                    "price": "235",
+                    "url": "https://m.qyer.com/place/hong-kong/poi/83130/"
+                },
+                {
+                    "id": 59068,
+                    "photo": "https://pic.qyer.com/album/153/65/1841653/index/300_200",
+                    "name": "香港迪士尼乐园",
+                    "grade": "9.0",
+                    "product_type": "当地游",
+                    "price": "462",
+                    "url": "https://m.qyer.com/place/hong-kong/poi/59068/"
+                },
+                {
+                    "id": 59070,
+                    "photo": "https://pic.qyer.com/album/user/1544/52/QExRRh8FZU0/index/300_200",
+                    "name": "香港海洋公园",
+                    "grade": "8.9",
+                    "product_type": "门票",
+                    "price": "329",
+                    "url": "https://m.qyer.com/place/hong-kong/poi/59070/"
+                },
+                {
+                    "id": 37686,
+                    "photo": "https://pic.qyer.com/album/user/357/21/QkxSQBsGYA/index/300_200",
+                    "name": "弥敦道",
+                    "grade": "8.5",
+                    "product_type": "",
+                    "price": "",
+                    "url": "https://m.qyer.com/place/hong-kong/poi/37686/"
+                },
+                {
+                    "id": 56522,
+                    "photo": "https://pic1.qyer.com/album/user/2349/8/Q0pRSxoPZUE/index/300_200",
+                    "name": "中环至半山自动扶梯",
+                    "grade": "8.4",
+                    "product_type": "",
+                    "price": "",
+                    "url": "https://m.qyer.com/place/hong-kong/poi/56522/"
+                },
+                {
+                    "id": 94404,
+                    "photo": "https://pic.qyer.com/album/user/373/8/Qk5WQhIOZA/index/300_200",
+                    "name": "兰桂坊",
+                    "grade": "8.3",
+                    "product_type": "",
+                    "price": "",
+                    "url": "https://m.qyer.com/place/hong-kong/poi/94404/"
+                }
+            ]
+        },
+        "city_recommend_tag": [
+            {
+                "name": "景点",
+                "lists": [
+                    {
+                        "id": 2012,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1658/37/QE9QShkAZkw/index/300_200",
+                        "tag_name": "香港亲子游",
+                        "url": "http://m.qyer.com/place/hong-kong/event/1141485/"
+                    },
+                    {
+                        "id": 199,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/1982/22/QEBdQBgFY0w/index/300_200",
+                        "tag_name": "亲近自然",
+                        "url": ""
+                    },
+                    {
+                        "id": 10905,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/366/9/Qk9TQhMFaQ/index/300_200",
+                        "tag_name": "离岛风光",
+                        "url": ""
+                    },
+                    {
+                        "id": 249,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/462/13/RU9XQxkCYg/index/300_200",
+                        "tag_name": "夜游兰桂坊",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "name": "美食",
+                "lists": [
+                    {
+                        "id": 2466,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1658/70/QE9QSh0HZk4/index/300_200",
+                        "tag_name": "粤菜港点",
+                        "url": "http://m.qyer.com/place/hong-kong/event/1141496/"
+                    },
+                    {
+                        "id": 257,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/907/61/SElSRBsGYA/index/300_200",
+                        "tag_name": "美味日料",
+                        "url": ""
+                    },
+                    {
+                        "id": 2435,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/1530/17/QExWQhsAZE4/index/300_200",
+                        "tag_name": "品尝异国料理",
+                        "url": ""
+                    },
+                    {
+                        "id": 2017,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/407/91/RUlSSxsOaA/index/300_200",
+                        "tag_name": "品味米其林",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "name": "购物",
+                "lists": [
+                    {
+                        "id": 362,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1678/24/QE9SShgDaUg/index/300_200",
+                        "tag_name": "血拼圣地",
+                        "url": "http://m.qyer.com/place/hong-kong/event/1142640/"
+                    },
+                    {
+                        "id": 10947,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/329/67/QktcRB0GZw/index/300_200",
+                        "tag_name": "尖沙咀购物",
+                        "url": ""
+                    },
+                    {
+                        "id": 10948,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/715/6/RkhQQhwOZA/index/300_200",
+                        "tag_name": "旧物古货",
+                        "url": ""
+                    },
+                    {
+                        "id": 277,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/2265/92/Q0tTRxMFY0w/index/300_200",
+                        "tag_name": "电子产品购物地",
+                        "url": "http://m.qyer.com/place/hong-kong/event/1451837/"
+                    }
+                ]
+            }
+        ],
+        "recommend_discount": [
+            {
+                "id": 53186,
+                "name": "【秒杀】香港太平山+摩天台+杜莎夫人蜡像馆观夜景半日游(2人成团)",
+                "price": "235",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2015/09/02/14411913254271"
+            },
+            {
+                "id": 53199,
+                "name": "【热卖线路】香港会展+太平山+浅水湾+海洋公园一日游(2人成团)",
+                "price": "395",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2016/06/29/14671825358110"
+            },
+            {
+                "id": 53943,
+                "name": "【悠享慢生活】香港南丫岛渔民文化村+天虹海鲜宴+夜游维港半日游(2人起订)",
+                "price": "349",
+                "photo": "http://pic.qyer.com/public/supplier/lastminute/2015/09/14/14421687535921"
+            },
+            {
+                "id": 62808,
+                "name": "【悠享慢生活】香港南丫岛+榕树湾+索罟湾+世外桃源海鲜午餐一日游",
+                "price": "345",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2016/01/05/14519799227559"
+            },
+            {
+                "id": 53941,
+                "name": "【精选线路】香港青马大桥+天坛大佛+昂坪360+大澳水乡一日游(2人起订)",
+                "price": "455",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2015/09/11/14419682242552"
+            },
+            {
+                "id": 53940,
+                "name": "【TVB掠影】漫步读中环-细味香港风云变迁一日游(2人起订)",
+                "price": "315",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2015/09/14/14421682124400"
+            }
+        ],
+        "travel_necessary": [
+            {
+                "category_id": "145,146",
+                "name": "机加酒",
+                "price": "250",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681837759"
+            },
+            {
+                "category_id": "163",
+                "name": "WiFi",
+                "price": "10",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681314114"
+            },
+            {
+                "category_id": "174,175",
+                "name": "当地交通",
+                "price": "36",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681614055"
+            }
+        ],
+        "mguide_lists": [
+            {
+                "mguide_id": 816,
+                "mguide_name": "香港食记——再不吃，我们就瘦了",
+                "mguide_photo": "http://pic.qyer.com/album/user/299/75/Q0BcRR8EZA/index/"
+            },
+            {
+                "mguide_id": 866,
+                "mguide_name": "香港市区精华游",
+                "mguide_photo": "http://pic1.qyer.com/album/user/370/89/Qk5VShMOaA/index/"
+            },
+            {
+                "mguide_id": 815,
+                "mguide_name": "享受香港慢生活",
+                "mguide_photo": "http://pic.qyer.com/album/user/475/41/RU5QRhsEZw/index/"
+            },
+            {
+                "mguide_id": 3905,
+                "mguide_name": "为美食 | 打个飞的去香港",
+                "mguide_photo": "http://pic.qyer.com/album/user/1115/2/QEhURxoFaE8/index/"
+            },
+            {
+                "mguide_id": 826,
+                "mguide_name": "走街串巷——穷吃在香港",
+                "mguide_photo": "http://pic1.qyer.com/album/user/850/6/SUxVQhwEZA/index/"
+            }
+        ]
+    },
+    "extra": {
+        "ra_switch": 1,
+        "ads": [
+            {}
+        ]
+    },
+    "ra_referer": ""
+}

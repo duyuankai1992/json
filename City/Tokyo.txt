@@ -1,0 +1,382 @@
+{
+    "status": 1,
+    "info": "OK",
+    "times": 0,
+    "data": {
+        "city_id": 63,
+        "enname": "Tokyo",
+        "cnname": "东京",
+        "cover": "http://pic.qyer.com/album/123/c8/1866577/index/339x226",
+        "country": "日本",
+        "lat": "35.689487",
+        "lon": "139.691711",
+        "city_pic": [
+            "http://pic1.qyer.com/album/123/c8/1866577/index/w800",
+            "http://pic.qyer.com/album/196/c1/1866536/index/w800",
+            "http://pic1.qyer.com/album/117/a1/1866556/index/w800",
+            "http://pic1.qyer.com/album/183/22/1872173/index/w800",
+            "http://pic.qyer.com/album/user/496/24/RUBTQB4DZw/index/w800"
+        ],
+        "weather": {
+            "info": "晴间多云（白天）",
+            "low_temp": "24℃",
+            "high_temp": "29℃"
+        },
+        "planto": 0,
+        "guide_num": 7,
+        "icon_list": [
+            {
+                "icon": "景点玩乐",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562592918",
+                "icon_type": "play",
+                "link_url": ""
+            },
+            {
+                "icon": "美食",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562763075",
+                "icon_type": "food",
+                "link_url": ""
+            },
+            {
+                "icon": "城市指南",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604560769949",
+                "icon_type": "guide",
+                "link_url": ""
+            },
+            {
+                "icon": "特惠酒店",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563312380",
+                "icon_type": "house",
+                "link_url": "http://hotel.qyer.com/goto.php?url=http%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Faid%3D359095%26si%3Dai%252Cco%252Cci%252Cre%252Cdi%26label%3Dguid__datetime_15030285254673%26lang%3Dzh-cn%26ifl%3D%26ss%3D%25E4%25B8%259C%25E4%25BA%25AC"
+            },
+            {
+                "icon": "游记攻略",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670254580",
+                "icon_type": "travel_notes",
+                "link_url": "http://m.qyer.com/place/tokyo/travel-notes/?from_device=app"
+            },
+            {
+                "icon": "交通",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562347030",
+                "icon_type": "traffic",
+                "link_url": "http://m.qyer.com/place/city/tokyo/entry/transportationcity?from_device=app"
+            },
+            {
+                "icon": "当地游",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561189499",
+                "icon_type": "local",
+                "link_url": "qyer://action=search?type=1&categoryid=159,160&kw=63"
+            },
+            {
+                "icon": "机加酒",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561896961",
+                "icon_type": "flight",
+                "link_url": "qyer://action=search?type=1&categoryid=146,145&kw=63"
+            },
+            {
+                "icon": "景点门票",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562986449",
+                "icon_type": "ticket",
+                "link_url": "qyer://action=search?type=1&categoryid=160&kw=63"
+            },
+            {
+                "icon": "WiFi电话卡",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561688441",
+                "icon_type": "wifi",
+                "link_url": "qyer://action=search?type=1&categoryid=163&kw=63"
+            },
+            {
+                "icon": "签证",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563171279",
+                "icon_type": "visa",
+                "link_url": "http://m.qyer.com/place/country/japan/entry/visa?suffix=63&from_device=app"
+            },
+            {
+                "icon": "结伴出行",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670808411",
+                "icon_type": "together",
+                "link_url": ""
+            },
+            {
+                "icon": "行程路线",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/09/12/14736621124752",
+                "icon_type": "plan",
+                "link_url": "http://m.qyer.com/place/tokyo/plan/?from_device=app"
+            },
+            {
+                "icon": "问答",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760671906324",
+                "icon_type": "ask",
+                "link_url": ""
+            }
+        ],
+        "city_map": "http://7xoe6n.com2.z0.glb.qiniucdn.com/map-14549-6451.png",
+        "want_num": 0,
+        "not_miss": {
+            "events": [
+                {
+                    "id": 1148520,
+                    "photo": "https://pic1.qyer.com/album/user/1769/63/QE5TSxwEYUo/index/300_200",
+                    "name": "东京景点好评Top10",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/tokyo/event/1148520/"
+                },
+                {
+                    "id": 1150547,
+                    "photo": "https://pic1.qyer.com/album/user/1812/42/QEFUQB4FZEs/index/300_200",
+                    "name": "锦囊精选餐厅之东京篇",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/tokyo/event/1150547/"
+                }
+            ],
+            "pois": [
+                {
+                    "id": 59129,
+                    "photo": "https://pic1.qyer.com/album/user/215/1/Q0hQQhsOaQ/index/300_200",
+                    "name": "东京迪士尼度假区",
+                    "grade": "9.4",
+                    "product_type": "门票",
+                    "price": "551",
+                    "url": "https://m.qyer.com/place/tokyo/poi/59129/"
+                },
+                {
+                    "id": 34463,
+                    "photo": "https://pic.qyer.com/album/123/c8/1866577/index/300_200",
+                    "name": "东京塔",
+                    "grade": "8.9",
+                    "product_type": "深度体验",
+                    "price": "635",
+                    "url": "https://m.qyer.com/place/tokyo/poi/34463/"
+                },
+                {
+                    "id": 59135,
+                    "photo": "https://pic1.qyer.com/album/1db/78/1866508/index/300_200",
+                    "name": "三鹰之森吉卜力美术馆",
+                    "grade": "9.5",
+                    "product_type": "门票",
+                    "price": "65",
+                    "url": "https://m.qyer.com/place/tokyo/poi/59135/"
+                },
+                {
+                    "id": 59101,
+                    "photo": "https://pic.qyer.com/album/103/73/1866454/index/300_200",
+                    "name": "明治神宫",
+                    "grade": "8.8",
+                    "product_type": "深度体验",
+                    "price": "399",
+                    "url": "https://m.qyer.com/place/tokyo/poi/59101/"
+                },
+                {
+                    "id": 59107,
+                    "photo": "https://pic1.qyer.com/album/user/496/24/RUBTQB4DYQ/index/300_200",
+                    "name": "上野公园",
+                    "grade": "8.8",
+                    "product_type": "",
+                    "price": "",
+                    "url": "https://m.qyer.com/place/tokyo/poi/59107/"
+                },
+                {
+                    "id": 59115,
+                    "photo": "https://pic.qyer.com/album/user/322/21/QktXQBsPYw/index/300_200",
+                    "name": "台场",
+                    "grade": "8.7",
+                    "product_type": "日游小团",
+                    "price": "529",
+                    "url": "https://m.qyer.com/place/tokyo/poi/59115/"
+                }
+            ]
+        },
+        "city_recommend_tag": [
+            {
+                "name": "景点",
+                "lists": [
+                    {
+                        "id": 285,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1700/21/QE5VQhgGYk4/index/300_200",
+                        "tag_name": "日本温泉",
+                        "url": "http://m.qyer.com/place/tokyo/event/1142569/"
+                    },
+                    {
+                        "id": 2012,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1556/34/QExQRBkDYkA/index/300_200",
+                        "tag_name": "东京亲子游",
+                        "url": "http://m.qyer.com/place/tokyo/event/582358/"
+                    },
+                    {
+                        "id": 11041,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1584/71/QExdRh0GZkA/index/300_200",
+                        "tag_name": "二次元世界",
+                        "url": "http://m.qyer.com/place/tokyo/event/1139301/"
+                    },
+                    {
+                        "id": 10971,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/496/24/RUBTQB4DYQ/index/300_200",
+                        "tag_name": "赏樱盛地",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "name": "美食",
+                "lists": [
+                    {
+                        "id": 10082,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1584/19/QExdRhsOYE8/index/300_200",
+                        "tag_name": "寿司",
+                        "url": "http://m.qyer.com/place/tokyo/event/1139413/"
+                    },
+                    {
+                        "id": 257,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/105/d4/1840680/index/300_200",
+                        "tag_name": "日本料理",
+                        "url": ""
+                    },
+                    {
+                        "id": 10162,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1584/19/QExdRhsOZEg/index/300_200",
+                        "tag_name": "日式拉面",
+                        "url": "http://m.qyer.com/place/tokyo/event/1139412/"
+                    },
+                    {
+                        "id": 10184,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1584/10/QExdRhsHYko/index/300_200",
+                        "tag_name": "寿喜烧",
+                        "url": "http://m.qyer.com/place/tokyo/event/1139393/"
+                    }
+                ]
+            },
+            {
+                "name": "购物",
+                "lists": [
+                    {
+                        "id": 272,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1678/43/QE9SSh4EZUg/index/300_200",
+                        "tag_name": "化妆品",
+                        "url": "http://m.qyer.com/place/tokyo/event/1142664/"
+                    },
+                    {
+                        "id": 362,
+                        "type": "event",
+                        "photo": "",
+                        "tag_name": "血拼东京",
+                        "url": "http://m.qyer.com/place/tokyo/event/1409539/"
+                    },
+                    {
+                        "id": 268,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/938/98/SEpdSxIFZg/index/300_200",
+                        "tag_name": "音像店",
+                        "url": ""
+                    }
+                ]
+            }
+        ],
+        "recommend_discount": [
+            {
+                "id": 50260,
+                "name": "日本富士山五合目+河口湖+忍野八海+山中湖温泉拼车一日游",
+                "price": "398",
+                "photo": "http://pic.qyer.com/public/supplier/lastminute/2015/08/05/14387597802720"
+            },
+            {
+                "id": 95074,
+                "name": "【秒杀】日本东京羽田机场至市区中文专车接送机服务",
+                "price": "419",
+                "photo": "http://pic.qyer.com/public/supplier/lastminute/2017/04/19/14925703123961"
+            },
+            {
+                "id": 84621,
+                "name": "Anne Walk 日本桥— 穿街走巷看东京，感受大城市的市井人情",
+                "price": "248",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2017/04/19/14925686681041"
+            },
+            {
+                "id": 50234,
+                "name": "日本富士山河口湖+忍野八海+御殿场奥特莱斯拼车一日游",
+                "price": "398",
+                "photo": "http://pic.qyer.com/public/supplier/lastminute/2015/08/05/14387592748252"
+            },
+            {
+                "id": 61962,
+                "name": "下町的庶民情结- Veronica Walk东京半日行",
+                "price": "248",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2015/12/20/14505844005612"
+            },
+            {
+                "id": 82360,
+                "name": "【富士赏樱】富士五合目+忍野八海+御殿场奥特莱斯一日游(中文导游)",
+                "price": "355",
+                "photo": "http://pic.qyer.com/public/supplier/lastminute/2016/12/13/14815975099150"
+            }
+        ],
+        "travel_necessary": [
+            {
+                "category_id": "145,146",
+                "name": "机加酒",
+                "price": "330",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681837759"
+            },
+            {
+                "category_id": "149",
+                "name": "签证",
+                "price": "50",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681967162"
+            },
+            {
+                "category_id": "163",
+                "name": "WiFi",
+                "price": "3",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681314114"
+            },
+            {
+                "category_id": "174,175",
+                "name": "当地交通",
+                "price": "38",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681614055"
+            }
+        ],
+        "mguide_lists": [
+            {
+                "mguide_id": 1219,
+                "mguide_name": "边走边吃在筑地市场",
+                "mguide_photo": "http://pic1.qyer.com/album/user/756/59/RkxTRxMCaA/index/"
+            },
+            {
+                "mguide_id": 2588,
+                "mguide_name": "东京“平价美食”餐厅推荐",
+                "mguide_photo": "http://pic.qyer.com/album/user/984/64/SEFRRB4HZQ/index/"
+            },
+            {
+                "mguide_id": 2200,
+                "mguide_name": "“文具控”不可错过的东京清新文具店",
+                "mguide_photo": "http://pic1.qyer.com/album/user/938/85/SEpdSh8EZw/index/"
+            },
+            {
+                "mguide_id": 50,
+                "mguide_name": "东京，新宿吃点什么",
+                "mguide_photo": "http://pic.qyer.com/album/user/697/50/R0BSRxoFYQ/index/"
+            },
+            {
+                "mguide_id": 1167,
+                "mguide_name": "孤独的美食家（东京篇）",
+                "mguide_photo": "http://pic.qyer.com/album/user/752/85/RkxXSh8AZQ/index/"
+            }
+        ]
+    },
+    "extra": {
+        "ra_switch": 1,
+        "ads": [
+            {}
+        ]
+    },
+    "ra_referer": ""
+}

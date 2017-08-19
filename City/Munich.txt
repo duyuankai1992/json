@@ -1,0 +1,362 @@
+{
+    "status": 1,
+    "info": "OK",
+    "times": 0,
+    "data": {
+        "city_id": 37,
+        "enname": "Munich",
+        "cnname": "慕尼黑",
+        "cover": "http://pic.qyer.com/album/1e5/f3/1950011/index/339x226",
+        "country": "德国",
+        "lat": "48.144836",
+        "lon": "11.558007",
+        "city_pic": [
+            "http://pic1.qyer.com/album/1e5/f3/1950011/index/w800",
+            "http://pic.qyer.com/album/198/00/1916133/index/w800",
+            "http://pic.qyer.com/album/10c/4d/2070182/index/w800",
+            "http://pic.qyer.com/album/1c2/2b/2070173/index/w800",
+            "http://pic1.qyer.com/album/102/40/1950023/index/w800"
+        ],
+        "weather": {
+            "info": "多云（夜间）",
+            "low_temp": "19℃",
+            "high_temp": "31℃"
+        },
+        "planto": 0,
+        "guide_num": 4,
+        "icon_list": [
+            {
+                "icon": "景点玩乐",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562592918",
+                "icon_type": "play",
+                "link_url": ""
+            },
+            {
+                "icon": "美食",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562763075",
+                "icon_type": "food",
+                "link_url": ""
+            },
+            {
+                "icon": "城市指南",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604560769949",
+                "icon_type": "guide",
+                "link_url": ""
+            },
+            {
+                "icon": "特惠酒店",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563312380",
+                "icon_type": "house",
+                "link_url": "http://hotel.qyer.com/goto.php?url=http%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Faid%3D359095%26si%3Dai%252Cco%252Cci%252Cre%252Cdi%26label%3Dguid__datetime_15030312819745%26lang%3Dzh-cn%26ifl%3D%26ss%3D%25E6%2585%2595%25E5%25B0%25BC%25E9%25BB%2591"
+            },
+            {
+                "icon": "游记攻略",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670254580",
+                "icon_type": "travel_notes",
+                "link_url": "http://m.qyer.com/place/munich/travel-notes/?from_device=app"
+            },
+            {
+                "icon": "交通",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562347030",
+                "icon_type": "traffic",
+                "link_url": "http://m.qyer.com/place/city/munich/entry/transportationcity?from_device=app"
+            },
+            {
+                "icon": "机加酒",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561896961",
+                "icon_type": "flight",
+                "link_url": "qyer://action=search?type=1&categoryid=146,145&kw=37"
+            },
+            {
+                "icon": "自驾租车",
+                "icon_pic": "http://pic.qyer.com/public/2017/04/01/58df486f94d57.png",
+                "icon_type": "rentcar",
+                "link_url": "http://m.qyer.com/z/car/?city_id=Munich&city_name=10046&city_name_en=慕尼黑&return_id=Munich&return_name=10046&return_name_en=慕尼黑&city=Munich&region=Germany&utm_term=Munich&utm_source=c03729731-m&utm_medium=partner&utm_campaign=dest&utm_term=金刚位"
+            },
+            {
+                "icon": "当地游",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561189499",
+                "icon_type": "local",
+                "link_url": "qyer://action=search?type=1&categoryid=159,160&kw=37"
+            },
+            {
+                "icon": "景点门票",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562986449",
+                "icon_type": "ticket",
+                "link_url": "qyer://action=search?type=1&categoryid=160&kw=37"
+            },
+            {
+                "icon": "WiFi电话卡",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561688441",
+                "icon_type": "wifi",
+                "link_url": "qyer://action=search?type=1&categoryid=163&kw=37"
+            },
+            {
+                "icon": "签证",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563171279",
+                "icon_type": "visa",
+                "link_url": "http://m.qyer.com/place/country/germany/entry/visa?suffix=37&from_device=app"
+            },
+            {
+                "icon": "结伴出行",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670808411",
+                "icon_type": "together",
+                "link_url": ""
+            },
+            {
+                "icon": "行程路线",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/09/12/14736621124752",
+                "icon_type": "plan",
+                "link_url": "http://m.qyer.com/place/munich/plan/?from_device=app"
+            },
+            {
+                "icon": "问答",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760671906324",
+                "icon_type": "ask",
+                "link_url": ""
+            }
+        ],
+        "city_map": "http://7xoe6n.com2.z0.glb.qiniucdn.com/map-8718-5685.png",
+        "want_num": 0,
+        "not_miss": {
+            "events": [
+                {
+                    "id": 1161023,
+                    "photo": "https://pic1.qyer.com/album/user/1847/61/QEFRRRwGaU0/index/300_200",
+                    "name": "慕尼黑景点好评Top10",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/munich/event/1161023/"
+                },
+                {
+                    "id": 1446196,
+                    "photo": "https://pic.qyer.com/album/user/2023/69/Q0lXQRwOZU8/index/300_200",
+                    "name": "慕尼黑美食好评榜",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/munich/event/1446196/"
+                }
+            ],
+            "pois": [
+                {
+                    "id": 57110,
+                    "photo": "https://pic1.qyer.com/album/14f/94/1841226/index/300_200",
+                    "name": "慕尼黑玛利恩广场",
+                    "grade": "8.8",
+                    "product_type": "交通票券",
+                    "price": "171",
+                    "url": "https://m.qyer.com/place/munich/poi/57110/"
+                },
+                {
+                    "id": 57872,
+                    "photo": "https://pic.qyer.com/album/user/427/43/RUtSRhkEaA/index/300_200",
+                    "name": "慕尼黑新市政厅",
+                    "grade": "8.9",
+                    "product_type": "包车",
+                    "price": "2128",
+                    "url": "https://m.qyer.com/place/munich/poi/57872/"
+                },
+                {
+                    "id": 58511,
+                    "photo": "https://pic1.qyer.com/album/user/661/58/R09URxIBaQ/index/300_200",
+                    "name": "慕尼黑宝马博物馆",
+                    "grade": "8.7",
+                    "product_type": "包车",
+                    "price": "2128",
+                    "url": "https://m.qyer.com/place/munich/poi/58511/"
+                },
+                {
+                    "id": 85914,
+                    "photo": "https://pic.qyer.com/album/user/213/67/Q0hWRB0DZg/index/300_200",
+                    "name": "宫廷啤酒屋",
+                    "grade": "8.7",
+                    "product_type": "当地游",
+                    "price": "189",
+                    "url": "https://m.qyer.com/place/munich/poi/85914/"
+                },
+                {
+                    "id": 35190,
+                    "photo": "https://pic1.qyer.com/album/173/f0/1839496/index/300_200",
+                    "name": "慕尼黑王宫",
+                    "grade": "8.8",
+                    "product_type": "日游小团",
+                    "price": "427",
+                    "url": "https://m.qyer.com/place/munich/poi/35190/"
+                },
+                {
+                    "id": 62153,
+                    "photo": "https://pic.qyer.com/album/user/213/15/Q0hWQx8DYA/index/300_200",
+                    "name": "安联球场",
+                    "grade": "9.0",
+                    "product_type": "日游小团",
+                    "price": "228",
+                    "url": "https://m.qyer.com/place/munich/poi/62153/"
+                }
+            ]
+        },
+        "city_recommend_tag": [
+            {
+                "name": "景点",
+                "lists": [
+                    {
+                        "id": 175,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1692/61/QE9cQBwGZ00/index/300_200",
+                        "tag_name": "感受德国工业文化",
+                        "url": "http://m.qyer.com/place/munich/event/1143404/"
+                    },
+                    {
+                        "id": 362,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/179/54/1841227/index/300_200",
+                        "tag_name": "购物天堂慕尼黑",
+                        "url": ""
+                    },
+                    {
+                        "id": 290,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/1692/47/QE9cQB4AYkA/index/300_200",
+                        "tag_name": "慕尼黑夜生活",
+                        "url": ""
+                    },
+                    {
+                        "id": 2089,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/1692/59/QE9cQB8OYk8/index/300_200",
+                        "tag_name": "慕尼黑可以这样玩",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "name": "美食",
+                "lists": [
+                    {
+                        "id": 2455,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1691/58/QE9cQx8PaEA/index/300_200",
+                        "tag_name": "烤猪肘",
+                        "url": "http://m.qyer.com/place/munich/event/1143387/"
+                    },
+                    {
+                        "id": 249,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1831/15/QEFWQxsCY08/index/300_200",
+                        "tag_name": "慕尼黑啤酒",
+                        "url": "http://m.qyer.com/place/munich/event/1141750/"
+                    },
+                    {
+                        "id": 265,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/2121/71/Q0hXQx0GY00/index/300_200",
+                        "tag_name": "意式风味",
+                        "url": ""
+                    },
+                    {
+                        "id": 2435,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/1692/62/QE9cQBwFZ08/index/300_200",
+                        "tag_name": "异国料理",
+                        "url": ""
+                    }
+                ]
+            }
+        ],
+        "recommend_discount": [
+            {
+                "id": 54586,
+                "name": "德国新天鹅堡+林德霍夫宫一日游 (慕尼黑出发)",
+                "price": "427",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2015/09/18/14425672385306"
+            },
+            {
+                "id": 62024,
+                "name": "德国新天鹅堡一日游(慕尼黑火车往返,含导游)",
+                "price": "314",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2016/06/08/14653740178368"
+            },
+            {
+                "id": 80492,
+                "name": "【黄金周礼包】德国慕尼黑 因戈尔施塔特购物村INGOLSTADT VILLAGE 血拼之旅(慕尼黑往返)",
+                "price": "88",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2016/09/20/14743572303743"
+            },
+            {
+                "id": 63729,
+                "name": "德国慕尼黑往返浪漫之路哈尔堡+罗腾堡一日游",
+                "price": "375",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2016/01/11/14524982995584"
+            },
+            {
+                "id": 63748,
+                "name": "奥地利萨尔茨堡莫扎特足迹+湖区一日游(慕尼黑往返)",
+                "price": "370",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2016/01/11/14525003954668"
+            },
+            {
+                "id": 63704,
+                "name": "【恶魔巢穴】德国慕尼黑往返贝希特斯加登+鹰巢一日游",
+                "price": "372",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2016/01/20/14532604566155"
+            }
+        ],
+        "travel_necessary": [
+            {
+                "category_id": "145,146",
+                "name": "机加酒",
+                "price": "3999",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681837759"
+            },
+            {
+                "category_id": "149",
+                "name": "签证",
+                "price": "699",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681967162"
+            },
+            {
+                "category_id": "163",
+                "name": "WiFi",
+                "price": "18.8",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681314114"
+            },
+            {
+                "category_id": "174,175",
+                "name": "当地交通",
+                "price": "171",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681614055"
+            }
+        ],
+        "mguide_lists": [
+            {
+                "mguide_id": 1728,
+                "mguide_name": "如果你只有一次慕尼黑——慕尼黑必游景点推荐",
+                "mguide_photo": "http://pic1.qyer.com/album/user/818/60/SUhdRBoGYA/index/"
+            },
+            {
+                "mguide_id": 1731,
+                "mguide_name": "购物达人的天堂——慕尼黑理想购物商圈巡礼",
+                "mguide_photo": "http://pic1.qyer.com/album/user/818/96/SUhdSxwPZg/index/"
+            },
+            {
+                "mguide_id": 1737,
+                "mguide_name": "慕尼黑百货购物快狠准攻略",
+                "mguide_photo": "http://pic1.qyer.com/album/user/819/93/SUhcSxkFZw/index/"
+            },
+            {
+                "mguide_id": 1744,
+                "mguide_name": "肉食动物嘉年华——细数慕尼黑人气巴伐利亚餐厅",
+                "mguide_photo": "http://pic.qyer.com/album/user/820/3/SUtVQhkAZw/index/"
+            },
+            {
+                "mguide_id": 1732,
+                "mguide_name": "尝尝慕尼黑的“甜”头——热门甜点蛋糕店推荐",
+                "mguide_photo": "http://pic.qyer.com/album/user/819/6/SUhcQhwBZQ/index/"
+            }
+        ]
+    },
+    "extra": {
+        "ra_switch": 1,
+        "ads": [
+            {}
+        ]
+    },
+    "ra_referer": ""
+}

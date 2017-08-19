@@ -1,0 +1,395 @@
+{
+    "status": 1,
+    "info": "OK",
+    "times": 0,
+    "data": {
+        "city_id": 20,
+        "enname": "Paris",
+        "cnname": "巴黎",
+        "cover": "http://pic.qyer.com/album/11c/51/2064687/index/339x226",
+        "country": "法国",
+        "lat": "48.856613",
+        "lon": "2.352222",
+        "city_pic": [
+            "http://pic.qyer.com/album/11c/51/2064687/index/w800",
+            "http://pic.qyer.com/album/user/661/56/R09URxwFYg/index/w800",
+            "http://pic.qyer.com/album/user/213/19/Q0hWQxMBYQ/index/w800",
+            "http://pic.qyer.com/album/user/213/19/Q0hWQxMDYA/index/w800",
+            "http://pic.qyer.com/album/10d/48/1990514/index/w800"
+        ],
+        "weather": {
+            "info": "多云",
+            "low_temp": "18℃",
+            "high_temp": "23℃"
+        },
+        "planto": 0,
+        "guide_num": 4,
+        "icon_list": [
+            {
+                "icon": "景点玩乐",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562592918",
+                "icon_type": "play",
+                "link_url": ""
+            },
+            {
+                "icon": "美食",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562763075",
+                "icon_type": "food",
+                "link_url": ""
+            },
+            {
+                "icon": "城市指南",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604560769949",
+                "icon_type": "guide",
+                "link_url": ""
+            },
+            {
+                "icon": "特惠酒店",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563312380",
+                "icon_type": "house",
+                "link_url": "http://hotel.qyer.com/goto.php?url=http%3A%2F%2Fwww.booking.com%2Fsearchresults.html%3Faid%3D359095%26si%3Dai%252Cco%252Cci%252Cre%252Cdi%26label%3Dguid__datetime_15030304652159%26lang%3Dzh-cn%26ifl%3D%26ss%3D%25E5%25B7%25B4%25E9%25BB%258E"
+            },
+            {
+                "icon": "游记攻略",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670254580",
+                "icon_type": "travel_notes",
+                "link_url": "http://m.qyer.com/place/paris/travel-notes/?from_device=app"
+            },
+            {
+                "icon": "交通",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562347030",
+                "icon_type": "traffic",
+                "link_url": "http://m.qyer.com/place/city/paris/entry/transportationcity?from_device=app"
+            },
+            {
+                "icon": "机加酒",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561896961",
+                "icon_type": "flight",
+                "link_url": "qyer://action=search?type=1&categoryid=146,145&kw=20"
+            },
+            {
+                "icon": "自驾租车",
+                "icon_pic": "http://pic.qyer.com/public/2017/04/01/58df486f94d57.png",
+                "icon_type": "rentcar",
+                "link_url": "http://m.qyer.com/z/car/?city_id=938&city_name=巴黎&city_name_en=Paris&return_id=938&return_name=巴黎&return_name_en=Paris&city=938&region=10162&utm_term=938&utm_source=c03729731-m&utm_medium=partner&utm_campaign=dest&utm_term=金刚位"
+            },
+            {
+                "icon": "当地游",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561189499",
+                "icon_type": "local",
+                "link_url": "qyer://action=search?type=1&categoryid=159,160&kw=20"
+            },
+            {
+                "icon": "景点门票",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604562986449",
+                "icon_type": "ticket",
+                "link_url": "qyer://action=search?type=1&categoryid=160&kw=20"
+            },
+            {
+                "icon": "WiFi电话卡",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604561688441",
+                "icon_type": "wifi",
+                "link_url": "qyer://action=search?type=1&categoryid=163&kw=20"
+            },
+            {
+                "icon": "签证",
+                "icon_pic": "http://pic.qyer.com/public/mobileapp/startbanner/2016/04/12/14604563171279",
+                "icon_type": "visa",
+                "link_url": "http://m.qyer.com/place/country/france/entry/visa?suffix=20&from_device=app"
+            },
+            {
+                "icon": "结伴出行",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760670808411",
+                "icon_type": "together",
+                "link_url": ""
+            },
+            {
+                "icon": "行程路线",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/09/12/14736621124752",
+                "icon_type": "plan",
+                "link_url": "http://m.qyer.com/place/paris/plan/?from_device=app"
+            },
+            {
+                "icon": "问答",
+                "icon_pic": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760671906324",
+                "icon_type": "ask",
+                "link_url": ""
+            }
+        ],
+        "city_map": "http://7xoe6n.com2.z0.glb.qiniucdn.com/map-8299-5636.png",
+        "want_num": 0,
+        "not_miss": {
+            "events": [
+                {
+                    "id": 1149112,
+                    "photo": "https://pic.qyer.com/album/user/1784/16/QE5dRhsBZ0o/index/300_200",
+                    "name": "巴黎景点好评Top10",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/paris/event/1149112/"
+                },
+                {
+                    "id": 1150562,
+                    "photo": "https://pic1.qyer.com/album/user/1812/56/QEFUQB8BYkk/index/300_200",
+                    "name": "锦囊精选餐厅之巴黎篇",
+                    "icon": "https://pic.qyer.com/public/place/iconconfig/2016/10/10/14760680917392",
+                    "url": "https://m.qyer.com/place/paris/event/1150562/"
+                }
+            ],
+            "pois": [
+                {
+                    "id": 33915,
+                    "photo": "https://pic1.qyer.com/album/134/44/1105515/index/300_200",
+                    "name": "卢浮宫",
+                    "grade": "9.6",
+                    "product_type": "门票",
+                    "price": "300",
+                    "url": "https://m.qyer.com/place/paris/poi/33915/"
+                },
+                {
+                    "id": 33914,
+                    "photo": "https://pic1.qyer.com/album/1e3/b0/2068391/index/300_200",
+                    "name": "埃菲尔铁塔",
+                    "grade": "9.3",
+                    "product_type": "门票",
+                    "price": "287",
+                    "url": "https://m.qyer.com/place/paris/poi/33914/"
+                },
+                {
+                    "id": 52146,
+                    "photo": "https://pic.qyer.com/album/user/376/57/Qk5TRx0FYQ/index/300_200",
+                    "name": "巴黎圣母院",
+                    "grade": "9.2",
+                    "product_type": "深度体验",
+                    "price": "198",
+                    "url": "https://m.qyer.com/place/paris/poi/52146/"
+                },
+                {
+                    "id": 33926,
+                    "photo": "https://pic.qyer.com/album/112/9b/2046962/index/300_200",
+                    "name": "塞纳河",
+                    "grade": "9.1",
+                    "product_type": "深度体验",
+                    "price": "468",
+                    "url": "https://m.qyer.com/place/paris/poi/33926/"
+                },
+                {
+                    "id": 59194,
+                    "photo": "https://pic.qyer.com/album/user/240/62/Q01VRBgPYQ/index/300_200",
+                    "name": "巴黎凯旋门",
+                    "grade": "8.9",
+                    "product_type": "门票",
+                    "price": "116",
+                    "url": "https://m.qyer.com/place/paris/poi/59194/"
+                },
+                {
+                    "id": 14497,
+                    "photo": "https://pic.qyer.com/album/172/04/1861460/index/300_200",
+                    "name": "奥赛博物馆",
+                    "grade": "9.5",
+                    "product_type": "交通票券",
+                    "price": "540",
+                    "url": "https://m.qyer.com/place/paris/poi/14497/"
+                }
+            ]
+        },
+        "city_recommend_tag": [
+            {
+                "name": "景点",
+                "lists": [
+                    {
+                        "id": 335,
+                        "type": "event",
+                        "photo": "http://pic1.qyer.com/album/user/1678/68/QE9SShwPY08/index/300_200",
+                        "tag_name": "艺术之都",
+                        "url": "http://m.qyer.com/place/paris/event/1142690/"
+                    },
+                    {
+                        "id": 2015,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/1e3/b0/2068391/index/300_200",
+                        "tag_name": "人文建筑",
+                        "url": ""
+                    },
+                    {
+                        "id": 2016,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/211/93/Q0hUSxkBaQ/index/300_200",
+                        "tag_name": "名人故居",
+                        "url": ""
+                    },
+                    {
+                        "id": 283,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/123/f4/1839320/index/300_200",
+                        "tag_name": "入夜好去处",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "name": "美食",
+                "lists": [
+                    {
+                        "id": 10891,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1594/80/QExcRhIHaUA/index/300_200",
+                        "tag_name": "法国薄饼可丽饼",
+                        "url": "http://m.qyer.com/place/paris/event/1139577/"
+                    },
+                    {
+                        "id": 10076,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1678/15/QE9SShsCYE0/index/300_200",
+                        "tag_name": "法式蜗牛",
+                        "url": "http://m.qyer.com/place/paris/event/1142623/"
+                    },
+                    {
+                        "id": 10093,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/358/20/QkxdQBoEYQ/index/300_200",
+                        "tag_name": "法式鹅肝",
+                        "url": ""
+                    },
+                    {
+                        "id": 261,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/159/b8/1861429/index/300_200",
+                        "tag_name": "法式大餐",
+                        "url": ""
+                    }
+                ]
+            },
+            {
+                "name": "购物",
+                "lists": [
+                    {
+                        "id": 10065,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1778/38/QE5SShkPaUE/index/300_200",
+                        "tag_name": "时尚古着店",
+                        "url": "http://m.qyer.com/place/paris/event/1148749/"
+                    },
+                    {
+                        "id": 362,
+                        "type": "event",
+                        "photo": "http://pic.qyer.com/album/user/1781/1/QE5dQxoGaEs/index/300_200",
+                        "tag_name": "法国夏季打折季",
+                        "url": "http://m.qyer.com/place/paris/event/1148895/"
+                    },
+                    {
+                        "id": 275,
+                        "type": "poi",
+                        "photo": "http://pic1.qyer.com/album/user/2042/77/Q0lRQB0AaUA/index/300_200",
+                        "tag_name": "购物中心",
+                        "url": ""
+                    },
+                    {
+                        "id": 271,
+                        "type": "poi",
+                        "photo": "http://pic.qyer.com/album/user/609/52/R0lcRxgEZg/index/300_200",
+                        "tag_name": "礼品店",
+                        "url": ""
+                    }
+                ]
+            }
+        ],
+        "recommend_discount": [
+            {
+                "id": 49909,
+                "name": "【免费体验】法国古堡卢瓦尔河谷一日游(巴黎出发,中文服务)",
+                "price": "519",
+                "photo": "http://pic.qyer.com/public/supplier/lastminute/2015/07/31/14383320993342"
+            },
+            {
+                "id": 49881,
+                "name": "【免费体验】法国圣米歇尔山一日游(巴黎出发,中文陪同)",
+                "price": "519",
+                "photo": "http://pic.qyer.com/public/supplier/lastminute/2015/07/30/14382549966956"
+            },
+            {
+                "id": 61351,
+                "name": "【免费体验】法国巴黎 河谷购物村 LA VALLéE VILLAGE 血拼之旅（巴黎出发，半日/1日）",
+                "price": "12",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2016/09/19/14742765968628"
+            },
+            {
+                "id": 79056,
+                "name": "重走海明威的“流动盛宴”--21 Walk巴黎左岸拉丁区半日行",
+                "price": "198",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2016/06/23/14666713182488"
+            },
+            {
+                "id": 51233,
+                "name": "法国巴黎王宫逍遥一日游(中文导游)",
+                "price": "195",
+                "photo": "http://pic.qyer.com/public/supplier/lastminute/2015/08/13/14394545182977"
+            },
+            {
+                "id": 61836,
+                "name": "法国巴黎凡尔赛宫半日游(含巴黎市区接送,中文语音导览)",
+                "price": "413",
+                "photo": "http://pic.qyer.com/public/supplier/jd/2015/12/17/14503209965648"
+            }
+        ],
+        "travel_necessary": [
+            {
+                "category_id": "145,146",
+                "name": "机加酒",
+                "price": "3399",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681837759"
+            },
+            {
+                "category_id": "149",
+                "name": "签证",
+                "price": "699",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681967162"
+            },
+            {
+                "category_id": "163",
+                "name": "WiFi",
+                "price": "18.8",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681314114"
+            },
+            {
+                "category_id": "174,175",
+                "name": "当地交通",
+                "price": "85元",
+                "icon": "http://pic.qyer.com/public/place/iconconfig/2016/10/10/14760681614055"
+            }
+        ],
+        "mguide_lists": [
+            {
+                "mguide_id": 2583,
+                "mguide_name": "沿着塞纳河走上巴黎文艺清新之路",
+                "mguide_photo": "http://pic.qyer.com/album/user/993/22/SEBWQBgBaQ/index/"
+            },
+            {
+                "mguide_id": 455,
+                "mguide_name": "法国旅游之巴黎美食介绍",
+                "mguide_photo": "http://pic1.qyer.com/album/user/572/41/RE5XRhsDZA/index/"
+            },
+            {
+                "mguide_id": 3352,
+                "mguide_name": "一个旅居巴黎吃货的地址",
+                "mguide_photo": "http://pic1.qyer.com/album/user/1037/96/QElWRRMBaEo/index/"
+            },
+            {
+                "mguide_id": 473,
+                "mguide_name": "巴黎旅游必游景点",
+                "mguide_photo": "http://pic.qyer.com/album/user/376/57/Qk5TRx0GZQ/index/"
+            },
+            {
+                "mguide_id": 454,
+                "mguide_name": "巴黎的魅力小店游之购物篇",
+                "mguide_photo": "http://pic.qyer.com/album/user/597/80/REBSShoBYQ/index/"
+            }
+        ]
+    },
+    "extra": {
+        "ra_switch": 1,
+        "ads": [
+            {}
+        ]
+    },
+    "ra_referer": ""
+}
